@@ -1,5 +1,5 @@
 # Shark Storytelling Project
-![sharkimg](https://github.com/amorenorp/Shark_clean_project/blob/main/images/sharkimg.jpg)
+![img2](https://github.com/amorenorp/Shark_clean_project/blob/main/images/img2.jpg)
 
 
 En este proyecto he utlizado el documento [Shark Attack] (https://www.kaggle.com/teajay/global-shark-attacks) descargado de Kaggle .
@@ -20,6 +20,7 @@ El proposito de este ejericio es obtener una respuesta a las siguientes pregunta
 
 
  # Data Cleanning
+ **File en la carpeta SOURCE**
 
 Nos encontramos ante un archivo CSV con mucho errores, vamos a limpiarlo lo maximo posible: 
 
@@ -53,7 +54,7 @@ Reseteo el index y elimino la columna Fatal que ha sido sustituida por "dead".
 Guardo la nueva tabla como "sharkfinallimpio.csv"
 
 
-Tras la limpieza , he creado un nuevo archivo **sharl_storytelling.ipynb** donde se puede ver un resumen organizado en graficos para que sea mas visual y atractivo. 
+Tras la limpieza , he creado un nuevo archivo en la carpeta **source**, llamado **sharK_storytelling.ipynb** donde se puede ver un resumen organizado en graficos para que sea mas visual y atractivo. 
 
 
 ## *Referencias y bibliotecas:*
@@ -62,3 +63,5 @@ Tras la limpieza , he creado un nuevo archivo **sharl_storytelling.ipynb** donde
  - Seaborn
  - Pandas 
  - Matplotlib
+
+![sharkimg](https://github.com/amorenorp/Shark_clean_project/blob/main/images/sharkimg.jpg)
