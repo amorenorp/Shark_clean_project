@@ -6,7 +6,7 @@ En este proyecto he utlizado el documento [Shark Attack] (https://www.kaggle.com
 
 
 
-# Storytelling
+# Descripción
 
 
 Supongamos que surge la idea de realizar una nueva modalidad de Triathlon cuyos deportes sean el surf, swimming y fishing. 
@@ -55,6 +55,18 @@ Guardo la nueva tabla como "sharkfinallimpio.csv"
 
 
 Tras la limpieza , he creado un nuevo archivo en la carpeta **source**, llamado **sharK_storytelling.ipynb** donde se puede ver un resumen organizado en graficos para que sea mas visual y atractivo. 
+
+# Storytelling
+Gracias a los gráficos deducimos que la idea de crear un nuevo triathlon no tiene pinta de tener un final feliz. 
+
+Contestando a las preguntas arriba formuladas: 
+- Los paises mas peligrosos son USA , AUS y South Africa. 
+- El surf es el deporte con más registro de ataques. 
+- En su mayoria esos ataques no son mortales, aunque si lo extrapolamos al deporte Swimming el porcentaje de muertes es cercano al 50%. 
+
+![graf](https://github.com/amorenorp/Shark_clean_project/blob/main/output/figura3.png)
+
+
 
 
 ## *Referencias y bibliotecas:*
