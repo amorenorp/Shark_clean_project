@@ -71,9 +71,9 @@ Contestando a las preguntas arriba formuladas:
 
 ## *Referencias y bibliotecas:*
 
- - Kaggel 
- - Seaborn
- - Pandas 
- - Matplotlib
+ - https://www.kaggle.com/teajay/global-shark-attacks
+ - https://seaborn.pydata.org/#
+ - https://pandas.pydata.org/
+ - https://matplotlib.org/
 
 ![sharkimg](https://github.com/amorenorp/Shark_clean_project/blob/main/images/sharkimg.jpg)
