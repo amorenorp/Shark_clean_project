@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#archivo que no queremos subir a Git
+attacks.csv
+sharkfinal.csv
+clean_shark.ipynb
+graficos_shark.ipynb
+.DS_Store

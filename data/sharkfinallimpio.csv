@@ -1,0 +1,2898 @@
+,Year,Country,Activity,Sex,dead
+0,2018,usa,surf,M,No
+1,2017,usa,surf,F,No
+2,2017,usa,surf,F,No
+3,2017,usa,surf,F,No
+4,2017,usa,surf,M,No
+5,2017,usa,surf,M,No
+6,2017,usa,surf,M,No
+7,2017,usa,surf,M,Unknown
+8,2017,usa,surf,M,No
+9,2017,usa,surf,M,No
+10,2017,usa,surf,M,No
+11,2017,usa,surf,M,No
+12,2017,usa,surf,M,No
+13,2017,usa,surf,M,No
+14,2017,usa,surf,M,No
+15,2017,usa,surf,M,No
+16,2017,usa,surf,F,Unknown
+17,2017,usa,surf,F,No
+18,2017,usa,surf,M,No
+19,2017,usa,surf,M,No
+20,2017,usa,surf,F,No
+21,2017,usa,surf,F,No
+22,2017,usa,surf,M,No
+23,2016,usa,surf,M,No
+24,2016,usa,surf,M,Unknown
+25,2016,usa,surf,M,No
+26,2016,usa,surf,M,No
+27,2016,usa,surf,M,No
+28,2016,usa,surf,M,No
+29,2016,usa,surf,M,No
+30,2016,usa,surf,M,No
+31,2016,usa,surf,M,No
+32,2016,usa,surf,M,No
+33,2016,usa,surf,M,No
+34,2016,usa,surf,M,No
+35,2016,usa,surf,M,No
+36,2016,usa,surf,M,No
+37,2016,usa,surf,M,No
+38,2016,usa,surf,F,No
+39,2016,usa,surf,M,No
+40,2016,usa,surf,M,No
+41,2016,usa,surf,M,No
+42,2016,usa,surf,M,Unknown
+43,2016,usa,surf,M,No
+44,2016,usa,surf,Unknown,Unknown
+45,2016,usa,surf,M,No
+46,2016,usa,surf,M,No
+47,2016,usa,surf,F,No
+48,2015,usa,surf,M,No
+49,2015,usa,surf,M,No
+50,2015,usa,surf,F,Unknown
+51,2015,usa,surf,M,No
+52,2015,usa,surf,M,No
+53,2015,usa,surf,M,Unknown
+54,2015,usa,surf,M,No
+55,2015,usa,surf,M,No
+56,2015,usa,surf,M,No
+57,2015,usa,surf,M,No
+58,2015,usa,surf,M,No
+59,2015,usa,surf,F,No
+60,2015,usa,surf,M,No
+61,2015,usa,surf,M,No
+62,2015,usa,surf,M,No
+63,2015,usa,surf,M,No
+64,2015,usa,surf,M,No
+65,2015,usa,surf,M,No
+66,2014,usa,surf,M,No
+67,2014,usa,surf,M,No
+68,2014,usa,surf,M,No
+69,2014,usa,surf,F,No
+70,2014,usa,surf,M,No
+71,2014,usa,surf,F,No
+72,2014,usa,surf,M,No
+73,2014,usa,surf,M,No
+74,2014,usa,surf,M,No
+75,2014,usa,surf,M,No
+76,2014,usa,surf,M,Unknown
+77,2014,usa,surf,F,No
+78,2014,usa,surf,M,No
+79,2014,usa,surf,M,No
+80,2014,usa,surf,M,No
+81,2014,usa,surf,M,No
+82,2014,usa,surf,M,No
+83,2014,usa,surf,M,No
+84,2014,usa,surf,M,No
+85,2014,usa,surf,M,No
+86,2014,usa,surf,M,No
+87,2014,usa,surf,M,No
+88,2014,usa,surf,M,No
+89,2014,usa,surf,M,No
+90,2014,usa,surf,M,No
+91,2014,usa,surf,M,No
+92,2013,usa,surf,M,No
+93,2013,usa,surf,M,No
+94,2013,usa,surf,M,No
+95,2013,usa,surf,M,No
+96,2013,usa,surf,M,No
+97,2013,usa,surf,M,No
+98,2013,usa,surf,M,No
+99,2013,usa,surf,F,No
+100,2013,usa,surf,M,No
+101,2013,usa,surf,M,No
+102,2013,usa,surf,F,No
+103,2013,usa,surf,M,No
+104,2013,usa,surf,M,No
+105,2013,usa,surf,F,No
+106,2013,usa,surf,F,No
+107,2013,usa,surf,M,Unknown
+108,2013,usa,surf,M,No
+109,2013,usa,surf,M,No
+110,2013,usa,surf,M,No
+111,2013,usa,surf,M,No
+112,2013,usa,surf,Unknown,No
+113,2013,usa,surf,M,No
+114,2013,usa,surf,M,No
+115,2013,usa,surf,M,No
+116,2012,usa,surf,M,No
+117,2012,usa,surf,M,No
+118,2012,usa,surf,M,No
+119,2012,usa,surf,M,No
+120,2012,usa,surf,M,Yes
+121,2012,usa,surf,M,No
+122,2012,usa,surf,M,No
+123,2012,usa,surf,M,No
+124,2012,usa,surf,M,No
+125,2012,usa,surf,M,No
+126,2012,usa,surf,Unknown,No
+127,2012,usa,surf,M,No
+128,2012,usa,surf,M,No
+129,2012,usa,surf,M,No
+130,2012,usa,surf,M,No
+131,2012,usa,surf,M,No
+132,2012,usa,surf,M,No
+133,2012,usa,surf,M,No
+134,2012,usa,surf,M,No
+135,2012,usa,surf,F,No
+136,2012,usa,surf,M,No
+137,2012,usa,surf,M,No
+138,2012,usa,surf,M,No
+139,2012,usa,surf,M,No
+140,2012,usa,surf,M,No
+141,2012,usa,surf,F,No
+142,2012,usa,surf,M,No
+143,2012,usa,surf,M,No
+144,2012,usa,surf,M,No
+145,2012,usa,surf,M,No
+146,2011,usa,surf,M,No
+147,2011,usa,surf,F,No
+148,2011,usa,surf,M,No
+149,2011,usa,surf,M,No
+150,2011,usa,surf,M,No
+151,2011,usa,surf,M,No
+152,2011,usa,surf,M,Unknown
+153,2011,usa,surf,M,No
+154,2011,usa,surf,M,No
+155,2011,usa,surf,Unknown,No
+156,2011,usa,surf,M,No
+157,2011,usa,surf,M,No
+158,2011,usa,surf,M,No
+159,2011,usa,surf,M,No
+160,2011,usa,surf,M,No
+161,2011,usa,surf,F,No
+162,2011,usa,surf,M,No
+163,2011,usa,surf,F,No
+164,2011,usa,surf,M,No
+165,2011,usa,surf,M,No
+166,2011,usa,surf,M,No
+167,2010,usa,surf,M,No
+168,2010,usa,surf,M,No
+169,2010,usa,surf,M,No
+170,2010,usa,surf,M,No
+171,2010,usa,surf,M,No
+172,2010,usa,surf,M,No
+173,2010,usa,surf,M,No
+174,2010,usa,surf,M,No
+175,2010,usa,surf,M,No
+176,2010,usa,surf,M,No
+177,2010,usa,surf,M,No
+178,2010,usa,surf,M,No
+179,2010,usa,surf,M,No
+180,2010,usa,surf,M,No
+181,2010,usa,surf,M,No
+182,2009,usa,surf,M,Unknown
+183,2009,usa,surf,M,No
+184,2009,usa,surf,F,No
+185,2009,usa,surf,M,No
+186,2009,usa,surf,M,No
+187,2009,usa,surf,M,No
+188,2009,usa,surf,M,No
+189,2009,usa,surf,M,No
+190,2009,usa,surf,M,No
+191,2009,usa,surf,M,No
+192,2009,usa,surf,M,No
+193,2009,usa,surf,M,Unknown
+194,2009,usa,surf,M,No
+195,2009,usa,surf,M,No
+196,2009,usa,surf,M,No
+197,2009,usa,surf,M,No
+198,2009,usa,surf,M,No
+199,2009,usa,surf,M,No
+200,2009,usa,surf,M,No
+201,2009,usa,surf,F,No
+202,2008,usa,surf,M,No
+203,2008,usa,surf,M,No
+204,2008,usa,surf,M,No
+205,2008,usa,surf,M,No
+206,2008,usa,surf,M,No
+207,2008,usa,surf,M,No
+208,2008,usa,surf,M,No
+209,2008,usa,surf,M,No
+210,2008,usa,surf,M,No
+211,2008,usa,surf,M,No
+212,2008,usa,surf,F,Unknown
+213,2008,usa,surf,M,No
+214,2008,usa,surf,M,No
+215,2008,usa,surf,M,Unknown
+216,2008,usa,surf,M,No
+217,2008,usa,surf,M,No
+218,2008,usa,surf,M,No
+219,2008,usa,surf,F,No
+220,2008,usa,surf,M,No
+221,2008,usa,surf,M,No
+222,2008,usa,surf,M,No
+223,2008,usa,surf,M,No
+224,2008,usa,surf,M,No
+225,2008,usa,surf,M,No
+226,2008,usa,surf,Unknown,No
+227,2008,usa,surf,M,No
+228,2008,usa,surf,M,No
+229,2008,usa,surf,M,No
+230,2008,usa,surf,M,No
+231,2008,usa,surf,M,No
+232,2008,usa,surf,M,No
+233,2008,usa,surf,M,No
+234,2007,usa,surf,M,No
+235,2007,usa,surf,M,No
+236,2007,usa,surf,M,No
+237,2007,usa,surf,M,No
+238,2007,usa,surf,M,No
+239,2007,usa,surf,M,No
+240,2007,usa,surf,F,No
+241,2007,usa,surf,F,No
+242,2007,usa,surf,M,No
+243,2007,usa,surf,F,No
+244,2007,usa,surf,M,No
+245,2007,usa,surf,M,No
+246,2007,usa,surf,M,No
+247,2007,usa,surf,M,No
+248,2007,usa,surf,M,No
+249,2007,usa,surf,M,No
+250,2007,usa,surf,M,No
+251,2007,usa,surf,M,No
+252,2007,usa,surf,M,No
+253,2007,usa,surf,M,No
+254,2007,usa,surf,M,No
+255,2007,usa,surf,F,Unknown
+256,2007,usa,surf,F,No
+257,2007,usa,surf,M,No
+258,2007,usa,surf,M,No
+259,2007,usa,surf,M,No
+260,2007,usa,surf,M,No
+261,2007,usa,surf,M,Unknown
+262,2007,usa,surf,M,No
+263,2006,usa,surf,M,No
+264,2006,usa,surf,M,No
+265,2006,usa,surf,M,No
+266,2006,usa,surf,M,No
+267,2006,usa,surf,M,No
+268,2006,usa,surf,M,No
+269,2006,usa,surf,M,No
+270,2006,usa,surf,M,No
+271,2006,usa,surf,M,No
+272,2006,usa,surf,M,No
+273,2006,usa,surf,M,No
+274,2006,usa,surf,M,No
+275,2006,usa,surf,F,No
+276,2006,usa,surf,M,No
+277,2006,usa,surf,M,No
+278,2006,usa,surf,M,No
+279,2006,usa,surf,F,No
+280,2006,usa,surf,M,No
+281,2006,usa,surf,M,No
+282,2005,usa,surf,M,No
+283,2005,usa,surf,M,No
+284,2005,usa,surf,M,No
+285,2005,usa,surf,M,No
+286,2005,usa,surf,M,No
+287,2005,usa,surf,M,No
+288,2005,usa,surf,M,No
+289,2005,usa,surf,M,No
+290,2005,usa,surf,M,No
+291,2005,usa,surf,F,No
+292,2005,usa,surf,M,No
+293,2005,usa,surf,M,No
+294,2005,usa,surf,M,Unknown
+295,2005,usa,surf,F,No
+296,2005,usa,surf,M,Yes
+297,2005,usa,surf,M,No
+298,2005,usa,surf,M,No
+299,2005,usa,surf,M,No
+300,2005,usa,surf,M,No
+301,2005,usa,surf,M,Unknown
+302,2005,usa,surf,M,Unknown
+303,2005,usa,surf,M,No
+304,2005,usa,surf,M,Unknown
+305,2005,usa,surf,M,No
+306,2005,usa,surf,M,No
+307,2004,usa,surf,Unknown,No
+308,2004,usa,surf,M,No
+309,2004,usa,surf,M,No
+310,2004,usa,surf,M,No
+311,2004,usa,surf,M,No
+312,2004,usa,surf,M,Unknown
+313,2004,usa,surf,M,No
+314,2004,usa,surf,F,No
+315,2004,usa,surf,F,No
+316,2004,usa,surf,M,No
+317,2004,usa,surf,M,No
+318,2004,usa,surf,M,No
+319,2004,usa,surf,M,Yes
+320,2004,usa,surf,F,Unknown
+321,2004,usa,surf,M,No
+322,2004,usa,surf,M,No
+323,2004,usa,surf,M,No
+324,2003,usa,surf,F,No
+325,2003,usa,surf,M,No
+326,2003,usa,surf,M,No
+327,2003,usa,surf,F,No
+328,2003,usa,surf,M,No
+329,2003,usa,surf,M,No
+330,2003,usa,surf,F,No
+331,2003,usa,surf,M,No
+332,2003,usa,surf,M,No
+333,2003,usa,surf,M,No
+334,2003,usa,surf,M,No
+335,2003,usa,surf,M,No
+336,2003,usa,surf,M,No
+337,2003,usa,surf,M,No
+338,2003,usa,surf,M,No
+339,2003,usa,surf,M,No
+340,2003,usa,surf,M,No
+341,2003,usa,surf,M,No
+342,2003,usa,surf,M,No
+343,2003,usa,surf,M,No
+344,2003,usa,surf,M,No
+345,2003,usa,surf,Unknown,No
+346,2003,usa,surf,M,No
+347,2003,usa,surf,M,No
+348,2003,usa,surf,M,No
+349,2003,usa,surf,M,No
+350,2003,usa,surf,M,No
+351,2003,usa,surf,M,No
+352,2003,usa,surf,M,No
+353,2003,usa,surf,M,No
+354,2003,usa,surf,M,No
+355,2003,usa,surf,M,No
+356,2002,usa,surf,M,No
+357,2002,usa,surf,M,No
+358,2002,usa,surf,M,No
+359,2002,usa,surf,M,No
+360,2002,usa,surf,M,No
+361,2002,usa,surf,M,No
+362,2002,usa,surf,M,No
+363,2002,usa,surf,M,No
+364,2002,usa,surf,M,No
+365,2002,usa,surf,M,No
+366,2002,usa,surf,M,No
+367,2002,usa,surf,M,No
+368,2002,usa,surf,M,No
+369,2002,usa,surf,M,No
+370,2002,usa,surf,Unknown,No
+371,2002,usa,surf,M,No
+372,2002,usa,surf,M,No
+373,2002,usa,surf,M,No
+374,2002,usa,surf,M,No
+375,2002,usa,surf,M,No
+376,2002,usa,surf,M,No
+377,2002,usa,surf,M,No
+378,2001,usa,surf,Unknown,No
+379,2001,usa,surf,M,No
+380,2001,usa,surf,M,No
+381,2001,usa,surf,M,No
+382,2001,usa,surf,M,No
+383,2001,usa,surf,M,No
+384,2001,usa,surf,M,No
+385,2001,usa,surf,F,No
+386,2001,usa,surf,F,No
+387,2001,usa,surf,M,No
+388,2001,usa,surf,M,No
+389,2001,usa,surf,M,No
+390,2001,usa,surf,M,No
+391,2001,usa,surf,M,No
+392,2001,usa,surf,M,No
+393,2001,usa,surf,M,No
+394,2001,usa,surf,M,No
+395,2001,usa,surf,M,No
+396,2001,usa,surf,M,No
+397,2001,usa,surf,M,No
+398,2001,usa,surf,M,No
+399,2001,usa,surf,M,No
+400,2001,usa,surf,Unknown,No
+401,2001,usa,surf,M,No
+402,2001,usa,surf,M,No
+403,2001,usa,surf,M,No
+404,2000,usa,surf,M,No
+405,2000,usa,surf,M,No
+406,2000,usa,surf,M,No
+407,2000,usa,surf,M,No
+408,2000,usa,surf,M,No
+409,2000,usa,surf,M,No
+410,2000,usa,surf,M,No
+411,2000,usa,surf,M,No
+412,2000,usa,surf,F,No
+413,2000,usa,surf,M,No
+414,2000,usa,surf,M,No
+415,2000,usa,surf,M,No
+416,2000,usa,surf,M,No
+417,2000,usa,surf,M,No
+418,1999,usa,surf,M,No
+419,1999,usa,surf,M,No
+420,1999,usa,surf,M,No
+421,1999,usa,surf,M,No
+422,1999,usa,surf,M,No
+423,1999,usa,surf,M,No
+424,1999,usa,surf,M,No
+425,1999,usa,surf,M,No
+426,1999,usa,surf,M,No
+427,1999,usa,surf,M,No
+428,1999,usa,surf,M,No
+429,1999,usa,surf,M,No
+430,1999,usa,surf,M,No
+431,1999,usa,surf,M,No
+432,1999,usa,surf,M,No
+433,1999,usa,surf,M,No
+434,1999,usa,surf,M,Unknown
+435,1998,usa,surf,M,No
+436,1998,usa,surf,M,No
+437,1998,usa,surf,M,No
+438,1998,usa,surf,M,No
+439,1998,usa,surf,M,No
+440,1998,usa,surf,M,No
+441,1998,usa,surf,M,No
+442,1998,usa,surf,M,No
+443,1998,usa,surf,M,No
+444,1998,usa,surf,M,No
+445,1998,usa,surf,M,No
+446,1998,usa,surf,M,No
+447,1997,usa,surf,M,No
+448,1997,usa,surf,M,No
+449,1997,usa,surf,M,No
+450,1997,usa,surf,M,No
+451,1997,usa,surf,Unknown,No
+452,1997,usa,surf,M,No
+453,1997,usa,surf,M,No
+454,1997,usa,surf,M,No
+455,1997,usa,surf,M,No
+456,1997,usa,surf,M,No
+457,1997,usa,surf,M,No
+458,1997,usa,surf,M,No
+459,1997,usa,surf,M,No
+460,1997,usa,surf,M,No
+461,1997,usa,surf,M,No
+462,1996,usa,surf,M,No
+463,1996,usa,surf,M,No
+464,1996,usa,surf,M,No
+465,1996,usa,surf,M,No
+466,1996,usa,surf,M,No
+467,1996,usa,surf,M,No
+468,1996,usa,surf,F,No
+469,1996,usa,surf,M,No
+470,1996,usa,surf,M,No
+471,1996,usa,surf,M,No
+472,1995,usa,surf,M,No
+473,1995,usa,surf,M,No
+474,1995,usa,surf,M,No
+475,1995,usa,surf,M,No
+476,1995,usa,surf,M,No
+477,1995,usa,surf,M,No
+478,1995,usa,surf,M,No
+479,1995,usa,surf,M,No
+480,1995,usa,surf,M,No
+481,1995,usa,surf,M,No
+482,1995,usa,surf,M,No
+483,1995,usa,surf,M,No
+484,1995,usa,surf,M,No
+485,1995,usa,surf,M,No
+486,1995,usa,surf,M,No
+487,1995,usa,surf,M,No
+488,1995,usa,surf,M,No
+489,1995,usa,surf,M,No
+490,1995,usa,surf,M,No
+491,1994,usa,surf,Unknown,No
+492,1994,usa,surf,F,No
+493,1994,usa,surf,Unknown,No
+494,1994,usa,surf,M,No
+495,1994,usa,surf,M,No
+496,1994,usa,surf,M,No
+497,1994,usa,surf,M,No
+498,1994,usa,surf,M,No
+499,1994,usa,surf,M,No
+500,1994,usa,surf,M,No
+501,1994,usa,surf,M,Yes
+502,1994,usa,surf,M,No
+503,1993,usa,surf,M,Yes
+504,1993,usa,surf,M,No
+505,1993,usa,surf,M,No
+506,1993,usa,surf,Unknown,No
+507,1993,usa,surf,Unknown,No
+508,1993,usa,surf,M,No
+509,1993,usa,surf,M,No
+510,1993,usa,surf,M,No
+511,1993,usa,surf,M,No
+512,1992,usa,surf,M,No
+513,1992,usa,surf,M,No
+514,1992,usa,surf,M,No
+515,1992,usa,surf,M,No
+516,1992,usa,surf,M,No
+517,1992,usa,surf,M,No
+518,1992,usa,surf,M,No
+519,1992,usa,surf,M,No
+520,1992,usa,surf,F,No
+521,1992,usa,surf,M,No
+522,1991,usa,surf,M,No
+523,1991,usa,surf,M,No
+524,1991,usa,surf,M,No
+525,1991,usa,surf,M,No
+526,1991,usa,surf,M,No
+527,1991,usa,surf,M,No
+528,1991,usa,surf,M,No
+529,1991,usa,surf,M,No
+530,1990,usa,surf,F,No
+531,1990,usa,surf,M,No
+532,1990,usa,surf,M,No
+533,1990,usa,surf,M,No
+534,1990,usa,surf,M,No
+535,1990,usa,surf,M,No
+536,1990,usa,surf,M,No
+537,1990,usa,surf,M,No
+538,1990,usa,surf,M,No
+539,1990,usa,surf,M,No
+540,1990,usa,surf,M,No
+541,1990,usa,surf,M,No
+542,1990,usa,surf,M,No
+543,1990,usa,surf,M,NA
+544,1989,usa,surf,M,No
+545,1989,usa,surf,M,No
+546,1989,usa,surf,M,No
+547,1989,usa,surf,M,No
+548,1989,usa,surf,M,No
+549,1989,usa,surf,M,No
+550,1989,usa,surf,M,No
+551,1988,usa,surf,M,No
+552,1988,usa,surf,M,No
+553,1988,usa,surf,M,No
+554,1988,usa,surf,M,No
+555,1988,usa,surf,M,No
+556,1988,usa,surf,M,No
+557,1988,usa,surf,M,No
+558,1988,usa,surf,M,No
+559,1988,usa,surf,M,No
+560,1988,usa,surf,M,No
+561,1988,usa,surf,M,No
+562,1988,usa,surf,M,No
+563,1988,usa,surf,M,No
+564,1987,usa,surf,M,No
+565,1987,usa,surf,M,No
+566,1987,usa,surf,M,No
+567,1987,usa,surf,M,No
+568,1987,usa,surf,M,No
+569,1987,usa,surf,F,No
+570,1987,usa,surf,M,No
+571,1987,usa,surf,M,No
+572,1986,usa,surf,M,No
+573,1986,usa,surf,M,No
+574,1986,usa,surf,M,No
+575,1986,usa,surf,M,No
+576,1986,usa,surf,M,No
+577,1986,usa,surf,Unknown,No
+578,1986,usa,surf,Unknown,No
+579,1986,usa,surf,Unknown,No
+580,1986,usa,surf,M,No
+581,1986,usa,surf,M,No
+582,1985,usa,surf,M,No
+583,1985,usa,surf,M,No
+584,1985,usa,surf,M,No
+585,1985,usa,surf,M,No
+586,1985,usa,surf,M,No
+587,1984,usa,surf,M,No
+588,1984,usa,surf,F,No
+589,1984,usa,surf,M,No
+590,1984,usa,surf,M,No
+591,1984,usa,surf,M,No
+592,1984,usa,surf,M,No
+593,1984,usa,surf,M,No
+594,1984,usa,surf,M,No
+595,1983,usa,surf,M,No
+596,1983,usa,surf,M,No
+597,1983,usa,surf,M,No
+598,1983,usa,surf,M,No
+599,1983,usa,surf,F,No
+600,1983,usa,surf,M,No
+601,1983,usa,surf,M,No
+602,1983,usa,surf,M,No
+603,1983,usa,surf,M,NA
+604,1983,usa,surf,M,No
+605,1983,usa,surf,M,No
+606,1982,usa,surf,M,No
+607,1982,usa,surf,M,No
+608,1982,usa,surf,M,Unknown
+609,1982,usa,surf,M,No
+610,1982,usa,surf,M,No
+611,1981,usa,surf,M,Yes
+612,1981,usa,surf,M,No
+613,1981,usa,surf,M,NA
+614,1981,usa,surf,M,No
+615,1981,usa,surf,M,No
+616,1981,usa,surf,M,No
+617,1981,usa,surf,M,No
+618,1981,usa,surf,M,No
+619,1981,usa,surf,M,No
+620,1981,usa,surf,M,No
+621,1981,usa,surf,M,No
+622,1981,usa,surf,M,No
+623,1980,usa,surf,M,No
+624,1980,usa,surf,M,No
+625,1980,usa,surf,M,No
+626,1980,usa,surf,M,No
+627,1980,usa,surf,M,No
+628,1979,usa,surf,M,No
+629,1979,usa,surf,M,No
+630,1979,usa,surf,M,No
+631,1978,usa,surf,M,No
+632,1978,usa,surf,M,No
+633,1978,usa,surf,M,No
+634,1978,usa,surf,M,No
+635,1978,usa,surf,F,No
+636,1977,usa,surf,M,No
+637,1977,usa,surf,M,No
+638,1976,usa,surf,M,No
+639,1976,usa,surf,M,No
+640,1976,usa,surf,M,No
+641,1976,usa,surf,M,No
+642,1976,usa,surf,M,No
+643,1975,usa,surf,M,No
+644,1975,usa,surf,M,Unknown
+645,1975,usa,surf,Unknown,Unknown
+646,1975,usa,surf,M,No
+647,1975,usa,surf,M,No
+648,1975,usa,surf,M,No
+649,1975,usa,surf,M,No
+650,1974,usa,surf,M,No
+651,1974,usa,surf,M,No
+652,1974,usa,surf,M,No
+653,1974,usa,surf,M,No
+654,1974,usa,surf,M,No
+655,1974,usa,surf,M,No
+656,1973,usa,surf,M,No
+657,1973,usa,surf,M,No
+658,1972,usa,surf,M,No
+659,1972,usa,surf,M,No
+660,1972,usa,surf,M,No
+661,1972,usa,surf,M,No
+662,1971,usa,surf,M,No
+663,1971,usa,surf,Unknown,No
+664,1970,usa,surf,M,No
+665,1970,usa,surf,M,No
+666,1970,usa,surf,M,Unknown
+667,1969,usa,surf,M,No
+668,1969,usa,surf,M,No
+669,1969,usa,surf,M,No
+670,1969,usa,surf,M,No
+671,1969,usa,surf,M,No
+672,1968,usa,surf,Unknown,Unknown
+673,1968,usa,surf,M,No
+674,1968,usa,surf,M,No
+675,1968,usa,surf,Unknown,Unknown
+676,1967,usa,surf,M,Unknown
+677,1966,usa,surf,M,No
+678,1965,usa,surf,M,Unknown
+679,1965,usa,surf,M,No
+680,1965,usa,surf,M,No
+681,1964,usa,surf,M,No
+682,1963,usa,surf,M,No
+683,1963,usa,surf,M,No
+684,1962,usa,surf,M,No
+685,1962,usa,surf,M,Yes
+686,1962,usa,surf,M,No
+687,1962,usa,surf,M,No
+688,1960,usa,surf,M,No
+689,1960,usa,surf,M,No
+690,1959,usa,surf,M,No
+691,1958,usa,surf,M,Yes
+692,1956,usa,surf,M,No
+693,1955,usa,surf,M,No
+694,1953,usa,surf,M,No
+695,1952,usa,surf,M,Yes
+696,1950,usa,surf,M,No
+697,1828,usa,surf,M,Yes
+698,1779,usa,surf,M,Yes
+699,NA,usa,surf,M,No
+700,NA,usa,surf,M,No
+701,2018,australia,surf,M,No
+702,2018,australia,surf,M,No
+703,2018,australia,surf,M,No
+704,2018,australia,surf,M,No
+705,2018,australia,surf,M,No
+706,2018,australia,surf,M,No
+707,2018,australia,surf,M,No
+708,2018,australia,surf,M,No
+709,2018,australia,surf,M,No
+710,2018,australia,surf,M,No
+711,2018,australia,surf,M,No
+712,2017,australia,surf,M,No
+713,2017,australia,surf,M,No
+714,2017,australia,surf,M,No
+715,2017,australia,surf,M,No
+716,2017,australia,surf,M,No
+717,2017,australia,surf,M,No
+718,2017,australia,surf,F,No
+719,2017,australia,surf,F,Yes
+720,2017,australia,surf,M,No
+721,2016,australia,surf,M,No
+722,2016,australia,surf,M,No
+723,2016,australia,surf,M,No
+724,2016,australia,surf,M,No
+725,2016,australia,surf,M,No
+726,2016,australia,surf,M,No
+727,2016,australia,surf,M,No
+728,2016,australia,surf,M,No
+729,2016,australia,surf,M,No
+730,2016,australia,surf,M,No
+731,2016,australia,surf,M,No
+732,2016,australia,surf,M,Yes
+733,2016,australia,surf,M,No
+734,2016,australia,surf,M,No
+735,2016,australia,surf,M,Unknown
+736,2016,australia,surf,M,No
+737,2016,australia,surf,M,No
+738,2015,australia,surf,M,No
+739,2015,australia,surf,M,No
+740,2015,australia,surf,M,No
+741,2015,australia,surf,M,No
+742,2015,australia,surf,M,No
+743,2015,australia,surf,M,No
+744,2015,australia,surf,M,No
+745,2015,australia,surf,M,Unknown
+746,2015,australia,surf,M,No
+747,2015,australia,surf,M,No
+748,2015,australia,surf,M,No
+749,2015,australia,surf,F,No
+750,2015,australia,surf,M,No
+751,2015,australia,surf,M,No
+752,2015,australia,surf,M,No
+753,2015,australia,surf,M,Yes
+754,2015,australia,surf,M,No
+755,2015,australia,surf,M,No
+756,2015,australia,surf,M,No
+757,2015,australia,surf,F,Unknown
+758,2014,australia,surf,Unknown,No
+759,2014,australia,surf,M,No
+760,2014,australia,surf,M,No
+761,2014,australia,surf,M,No
+762,2014,australia,surf,F,No
+763,2014,australia,surf,M,No
+764,2014,australia,surf,M,No
+765,2014,australia,surf,M,No
+766,2014,australia,surf,M,No
+767,2014,australia,surf,M,No
+768,2013,australia,surf,M,No
+769,2013,australia,surf,M,Yes
+770,2013,australia,surf,M,No
+771,2013,australia,surf,M,No
+772,2013,australia,surf,M,No
+773,2013,australia,surf,M,No
+774,2013,australia,surf,M,Unknown
+775,2013,australia,surf,M,No
+776,2012,australia,surf,M,No
+777,2012,australia,surf,M,No
+778,2012,australia,surf,M,No
+779,2012,australia,surf,M,No
+780,2012,australia,surf,M,Yes
+781,2012,australia,surf,M,No
+782,2012,australia,surf,M,No
+783,2012,australia,surf,M,No
+784,2012,australia,surf,M,No
+785,2012,australia,surf,M,No
+786,2012,australia,surf,M,No
+787,2012,australia,surf,M,No
+788,2012,australia,surf,M,No
+789,2011,australia,surf,M,No
+790,2011,australia,surf,M,No
+791,2011,australia,surf,M,No
+792,2011,australia,surf,M,No
+793,2011,australia,surf,M,No
+794,2010,australia,surf,M,No
+795,2010,australia,surf,M,No
+796,2010,australia,surf,M,No
+797,2010,australia,surf,M,Yes
+798,2010,australia,surf,M,No
+799,2010,australia,surf,M,No
+800,2010,australia,surf,M,No
+801,2010,australia,surf,M,No
+802,2010,australia,surf,M,No
+803,2010,australia,surf,M,No
+804,2009,australia,surf,M,No
+805,2009,australia,surf,M,No
+806,2009,australia,surf,M,No
+807,2009,australia,surf,M,No
+808,2009,australia,surf,M,No
+809,2009,australia,surf,M,No
+810,2009,australia,surf,F,No
+811,2009,australia,surf,M,No
+812,2009,australia,surf,M,No
+813,2009,australia,surf,M,No
+814,2009,australia,surf,M,No
+815,2009,australia,surf,M,No
+816,2009,australia,surf,M,No
+817,2009,australia,surf,F,No
+818,2009,australia,surf,M,No
+819,2008,australia,surf,M,No
+820,2008,australia,surf,M,No
+821,2008,australia,surf,M,No
+822,2008,australia,surf,M,No
+823,2008,australia,surf,M,Unknown
+824,2008,australia,surf,F,No
+825,2007,australia,surf,M,No
+826,2007,australia,surf,M,No
+827,2007,australia,surf,F,No
+828,2007,australia,surf,M,No
+829,2007,australia,surf,M,No
+830,2007,australia,surf,F,No
+831,2007,australia,surf,M,No
+832,2006,australia,surf,M,No
+833,2006,australia,surf,M,No
+834,2006,australia,surf,M,No
+835,2006,australia,surf,M,No
+836,2006,australia,surf,M,No
+837,2005,australia,surf,M,No
+838,2005,australia,surf,M,No
+839,2005,australia,surf,M,No
+840,2005,australia,surf,M,No
+841,2005,australia,surf,M,No
+842,2005,australia,surf,M,No
+843,2005,australia,surf,M,No
+844,2004,australia,surf,M,Yes
+845,2004,australia,surf,M,No
+846,2004,australia,surf,M,Yes
+847,2004,australia,surf,M,No
+848,2003,australia,surf,M,No
+849,2003,australia,surf,M,No
+850,2003,australia,surf,M,No
+851,2003,australia,surf,F,No
+852,2002,australia,surf,M,No
+853,2002,australia,surf,M,Yes
+854,2002,australia,surf,M,No
+855,2002,australia,surf,M,No
+856,2001,australia,surf,M,No
+857,2001,australia,surf,M,No
+858,2001,australia,surf,M,Unknown
+859,2001,australia,surf,M,No
+860,2001,australia,surf,M,No
+861,2001,australia,surf,M,No
+862,2000,australia,surf,M,Yes
+863,2000,australia,surf,M,Yes
+864,2000,australia,surf,M,No
+865,2000,australia,surf,M,No
+866,1999,australia,surf,M,Yes
+867,1999,australia,surf,M,No
+868,1998,australia,surf,F,No
+869,1998,australia,surf,M,No
+870,1997,australia,surf,M,No
+871,1997,australia,surf,M,No
+872,1997,australia,surf,M,Yes
+873,1996,australia,surf,M,NA
+874,1996,australia,surf,M,No
+875,1995,australia,surf,F,No
+876,1995,australia,surf,M,No
+877,1992,australia,surf,M,Yes
+878,1992,australia,surf,M,No
+879,1992,australia,surf,M,No
+880,1992,australia,surf,M,Unknown
+881,1991,australia,surf,M,No
+882,1991,australia,surf,M,No
+883,1990,australia,surf,M,No
+884,1990,australia,surf,M,No
+885,1990,australia,surf,M,No
+886,1990,australia,surf,M,No
+887,1989,australia,surf,M,No
+888,1989,australia,surf,M,No
+889,1989,australia,surf,M,NA
+890,1989,australia,surf,M,No
+891,1989,australia,surf,M,Yes
+892,1989,australia,surf,M,No
+893,1988,australia,surf,M,No
+894,1988,australia,surf,M,No
+895,1988,australia,surf,M,No
+896,1987,australia,surf,M,No
+897,1986,australia,surf,M,No
+898,1982,australia,surf,M,Yes
+899,1981,australia,surf,M,No
+900,1977,australia,surf,M,No
+901,1977,australia,surf,M,No
+902,1975,australia,surf,M,No
+903,1975,australia,surf,M,No
+904,1975,australia,surf,M,Yes
+905,1973,australia,surf,M,No
+906,1972,australia,surf,M,No
+907,1972,australia,surf,M,No
+908,1971,australia,surf,M,No
+909,1965,australia,surf,M,No
+910,1964,australia,surf,M,No
+911,1964,australia,surf,M,No
+912,1963,australia,surf,M,No
+913,1963,australia,surf,M,No
+914,1962,australia,surf,M,No
+915,1962,australia,surf,Unknown,No
+916,1961,australia,surf,M,Yes
+917,1960,australia,surf,M,No
+918,1960,australia,surf,M,No
+919,1959,australia,surf,M,No
+920,1959,australia,surf,M,No
+921,1959,australia,surf,M,No
+922,1958,australia,surf,M,No
+923,1958,australia,surf,M,No
+924,1957,australia,surf,M,No
+925,1956,australia,surf,M,No
+926,1956,australia,surf,M,No
+927,1955,australia,surf,M,Yes
+928,1953,australia,surf,M,No
+929,1952,australia,surf,M,No
+930,1952,australia,surf,M,No
+931,1951,australia,surf,M,No
+932,1951,australia,surf,M,No
+933,1950,australia,surf,M,No
+934,1950,australia,surf,M,No
+935,1949,australia,surf,M,Unknown
+936,1949,australia,surf,M,No
+937,1948,australia,surf,M,No
+938,1947,australia,surf,M,No
+939,1944,australia,surf,M,No
+940,1942,australia,surf,M,No
+941,1938,australia,surf,M,No
+942,1937,australia,surf,M,No
+943,1936,australia,surf,M,No
+944,1936,australia,surf,M,Yes
+945,1936,australia,surf,M,Unknown
+946,1935,australia,surf,M,No
+947,1935,australia,surf,M,No
+948,1934,australia,surf,M,No
+949,1933,australia,surf,M,No
+950,1929,australia,surf,M,No
+951,1929,australia,surf,M,No
+952,1929,australia,surf,M,Yes
+953,1929,australia,surf,M,Yes
+954,1927,australia,surf,M,No
+955,1922,australia,surf,M,Yes
+956,1918,australia,surf,M,No
+957,1915,australia,surf,M,No
+958,1910,australia,surf,M,No
+959,2018,south africa,surf,M,No
+960,2018,south africa,surf,M,No
+961,2017,south africa,surf,F,No
+962,2017,south africa,surf,M,No
+963,2016,south africa,surf,M,No
+964,2016,south africa,surf,M,No
+965,2015,south africa,surf,M,No
+966,2015,south africa,surf,M,No
+967,2015,south africa,surf,M,No
+968,2015,south africa,surf,M,No
+969,2014,south africa,surf,M,No
+970,2013,south africa,surf,M,No
+971,2013,south africa,surf,M,No
+972,2013,south africa,surf,M,No
+973,2012,south africa,surf,M,No
+974,2011,south africa,surf,M,Unknown
+975,2011,south africa,surf,M,Yes
+976,2011,south africa,surf,M,No
+977,2011,south africa,surf,M,No
+978,2011,south africa,surf,M,No
+979,2011,south africa,surf,M,Yes
+980,2010,south africa,surf,M,No
+981,2010,south africa,surf,M,No
+982,2010,south africa,surf,M,No
+983,2010,south africa,surf,M,No
+984,2009,south africa,surf,M,Unknown
+985,2009,south africa,surf,M,Yes
+986,2009,south africa,surf,M,No
+987,2009,south africa,surf,M,Yes
+988,2008,south africa,surf,M,No
+989,2008,south africa,surf,M,No
+990,2007,south africa,surf,M,No
+991,2007,south africa,surf,M,No
+992,2006,south africa,surf,M,No
+993,2006,south africa,surf,M,No
+994,2006,south africa,surf,M,No
+995,2006,south africa,surf,M,No
+996,2005,south africa,surf,M,No
+997,2005,south africa,surf,M,No
+998,2005,south africa,surf,M,No
+999,2005,south africa,surf,M,No
+1000,2005,south africa,surf,M,No
+1001,2004,south africa,surf,M,No
+1002,2004,south africa,surf,M,No
+1003,2004,south africa,surf,M,No
+1004,2004,south africa,surf,M,No
+1005,2004,south africa,surf,M,No
+1006,2003,south africa,surf,Unknown,No
+1007,2003,south africa,surf,M,No
+1008,2002,south africa,surf,M,No
+1009,2002,south africa,surf,M,No
+1010,2001,south africa,surf,M,No
+1011,2001,south africa,surf,M,No
+1012,2000,south africa,surf,M,No
+1013,2000,south africa,surf,M,No
+1014,2000,south africa,surf,M,No
+1015,2000,south africa,surf,M,No
+1016,1999,south africa,surf,M,No
+1017,1999,south africa,surf,M,No
+1018,1999,south africa,surf,M,No
+1019,1998,south africa,surf,M,No
+1020,1998,south africa,surf,M,No
+1021,1998,south africa,surf,M,No
+1022,1998,south africa,surf,M,No
+1023,1998,south africa,surf,M,No
+1024,1998,south africa,surf,M,No
+1025,1998,south africa,surf,M,No
+1026,1998,south africa,surf,M,No
+1027,1998,south africa,surf,M,Yes
+1028,1997,south africa,surf,M,No
+1029,1997,south africa,surf,M,Yes
+1030,1996,south africa,surf,M,No
+1031,1996,south africa,surf,M,No
+1032,1996,south africa,surf,M,No
+1033,1984,south africa,surf,M,No
+1034,1994,south africa,surf,M,Yes
+1035,1994,south africa,surf,M,No
+1036,1994,south africa,surf,M,No
+1037,1994,south africa,surf,M,No
+1038,1993,south africa,surf,M,No
+1039,1992,south africa,surf,M,No
+1040,1990,south africa,surf,F,Yes
+1041,1990,south africa,surf,M,No
+1042,1990,south africa,surf,M,No
+1043,1989,south africa,surf,M,No
+1044,1989,south africa,surf,M,No
+1045,1989,south africa,surf,M,No
+1046,1989,south africa,surf,M,No
+1047,1988,south africa,surf,M,No
+1048,1988,south africa,surf,M,No
+1049,1988,south africa,surf,F,No
+1050,1988,south africa,surf,M,Unknown
+1051,1987,south africa,surf,M,No
+1052,1986,south africa,surf,M,No
+1053,1986,south africa,surf,M,No
+1054,1986,south africa,surf,M,No
+1055,1985,south africa,surf,M,No
+1056,1985,south africa,surf,M,No
+1057,1984,south africa,surf,M,No
+1058,1984,south africa,surf,M,No
+1059,1983,south africa,surf,M,No
+1060,1983,south africa,surf,M,No
+1061,1983,south africa,surf,M,No
+1062,1982,south africa,surf,M,No
+1063,1982,south africa,surf,M,No
+1064,1982,south africa,surf,M,Yes
+1065,1981,south africa,surf,M,No
+1066,1981,south africa,surf,M,No
+1067,1981,south africa,surf,M,No
+1068,1981,south africa,surf,M,No
+1069,1980,south africa,surf,M,No
+1070,1979,south africa,surf,M,No
+1071,1978,south africa,surf,M,No
+1072,1977,south africa,surf,M,No
+1073,1976,south africa,surf,M,No
+1074,1975,south africa,surf,M,No
+1075,1975,south africa,surf,M,No
+1076,1974,south africa,surf,M,No
+1077,1974,south africa,surf,M,No
+1078,1973,south africa,surf,M,No
+1079,1971,south africa,surf,M,No
+1080,1967,south africa,surf,M,No
+1081,1966,south africa,surf,M,No
+1082,1965,south africa,surf,M,No
+1083,1964,south africa,surf,M,No
+1084,1964,south africa,surf,M,No
+1085,1963,south africa,surf,M,Yes
+1086,1957,south africa,surf,M,No
+1087,1951,south africa,surf,M,No
+1088,1951,south africa,surf,M,No
+1089,1950,south africa,surf,M,Yes
+1090,1947,south africa,surf,M,No
+1091,1946,south africa,surf,M,No
+1092,1944,south africa,surf,M,Yes
+1093,1928,south africa,surf,M,No
+1094,1927,south africa,surf,M,No
+1095,2011,papua new guinea,surf,M,No
+1096,2014,new zealand,surf,M,No
+1097,2012,new zealand,surf,M,No
+1098,2011,new zealand,surf,M,No
+1099,2009,new zealand,surf,M,No
+1100,2007,new zealand,surf,F,No
+1101,2006,new zealand,surf,M,No
+1102,2004,new zealand,surf,M,No
+1103,2000,new zealand,surf,F,Yes
+1104,2000,new zealand,surf,M,No
+1105,1999,new zealand,surf,M,No
+1106,1971,new zealand,surf,M,No
+1107,1968,new zealand,surf,M,No
+1108,1966,new zealand,surf,F,Yes
+1109,1962,new zealand,surf,F,No
+1110,2018,usa,fishing,M,No
+1111,2017,usa,fishing,M,No
+1112,2017,usa,fishing,F,No
+1113,2017,usa,fishing,M,No
+1114,2017,usa,fishing,M,No
+1115,2017,usa,fishing,M,Unknown
+1116,2017,usa,fishing,M,No
+1117,2017,usa,fishing,M,No
+1118,2016,usa,fishing,M,No
+1119,2016,usa,fishing,M,No
+1120,2016,usa,fishing,M,No
+1121,2016,usa,fishing,Unknown,No
+1122,2016,usa,fishing,M,No
+1123,2016,usa,fishing,M,No
+1124,2016,usa,fishing,M,No
+1125,2016,usa,fishing,M,No
+1126,2016,usa,fishing,M,No
+1127,2016,usa,fishing,M,No
+1128,2016,usa,fishing,M,No
+1129,2015,usa,fishing,F,No
+1130,2015,usa,fishing,M,No
+1131,2015,usa,fishing,M,No
+1132,2015,usa,fishing,M,No
+1133,2015,usa,fishing,M,No
+1134,2015,usa,fishing,M,No
+1135,2015,usa,fishing,M,No
+1136,2015,usa,fishing,M,No
+1137,2015,usa,fishing,M,No
+1138,2015,usa,fishing,M,No
+1139,2015,usa,fishing,M,No
+1140,2015,usa,fishing,M,No
+1141,2015,usa,fishing,M,No
+1142,2015,usa,fishing,F,No
+1143,2015,usa,fishing,F,No
+1144,2015,usa,fishing,M,No
+1145,2015,usa,fishing,M,No
+1146,2015,usa,fishing,M,No
+1147,2015,usa,fishing,M,No
+1148,2014,usa,fishing,F,No
+1149,2014,usa,fishing,M,No
+1150,2014,usa,fishing,M,No
+1151,2014,usa,fishing,M,No
+1152,2014,usa,fishing,M,No
+1153,2014,usa,fishing,F,No
+1154,2014,usa,fishing,M,No
+1155,2013,usa,fishing,M,Yes
+1156,2013,usa,fishing,M,No
+1157,2013,usa,fishing,M,No
+1158,2013,usa,fishing,M,No
+1159,2013,usa,fishing,F,No
+1160,2013,usa,fishing,M,No
+1161,2013,usa,fishing,M,No
+1162,2012,usa,fishing,Unknown,No
+1163,2012,usa,fishing,M,No
+1164,2012,usa,fishing,F,No
+1165,2012,usa,fishing,M,No
+1166,2012,usa,fishing,F,No
+1167,2012,usa,fishing,M,No
+1168,2012,usa,fishing,M,No
+1169,2011,usa,fishing,M,No
+1170,2011,usa,fishing,M,No
+1171,2011,usa,fishing,F,No
+1172,2011,usa,fishing,F,No
+1173,2011,usa,fishing,M,No
+1174,2011,usa,fishing,M,No
+1175,2011,usa,fishing,M,No
+1176,2011,usa,fishing,M,No
+1177,2011,usa,fishing,M,No
+1178,2011,usa,fishing,M,No
+1179,2010,usa,fishing,M,No
+1180,2010,usa,fishing,M,No
+1181,2010,usa,fishing,M,No
+1182,2010,usa,fishing,M,No
+1183,2010,usa,fishing,M,No
+1184,2010,usa,fishing,F,No
+1185,2010,usa,fishing,M,No
+1186,2009,usa,fishing,M,No
+1187,2009,usa,fishing,M,No
+1188,2009,usa,fishing,M,No
+1189,2009,usa,fishing,F,No
+1190,2009,usa,fishing,M,Unknown
+1191,2009,usa,fishing,M,No
+1192,2009,usa,fishing,M,No
+1193,2008,usa,fishing,M,No
+1194,2008,usa,fishing,F,No
+1195,2008,usa,fishing,M,No
+1196,2008,usa,fishing,F,No
+1197,2008,usa,fishing,M,No
+1198,2008,usa,fishing,M,Unknown
+1199,2008,usa,fishing,F,No
+1200,2008,usa,fishing,M,No
+1201,2008,usa,fishing,M,No
+1202,2008,usa,fishing,M,No
+1203,2008,usa,fishing,M,No
+1204,2007,usa,fishing,M,No
+1205,2007,usa,fishing,F,No
+1206,2007,usa,fishing,F,No
+1207,2007,usa,fishing,M,No
+1208,2007,usa,fishing,M,No
+1209,2007,usa,fishing,F,No
+1210,2007,usa,fishing,F,No
+1211,2007,usa,fishing,Unknown,No
+1212,2007,usa,fishing,M,No
+1213,2006,usa,fishing,M,No
+1214,2006,usa,fishing,F,No
+1215,2006,usa,fishing,M,No
+1216,2006,usa,fishing,F,No
+1217,2006,usa,fishing,M,No
+1218,2006,usa,fishing,M,No
+1219,2006,usa,fishing,M,No
+1220,2006,usa,fishing,M,No
+1221,2006,usa,fishing,M,No
+1222,2006,usa,fishing,M,No
+1223,2005,usa,fishing,M,No
+1224,2005,usa,fishing,M,No
+1225,2005,usa,fishing,F,No
+1226,2005,usa,fishing,F,No
+1227,2005,usa,fishing,M,No
+1228,2005,usa,fishing,M,No
+1229,2005,usa,fishing,F,No
+1230,2005,usa,fishing,M,No
+1231,2005,usa,fishing,M,No
+1232,2004,usa,fishing,M,No
+1233,2004,usa,fishing,M,No
+1234,2004,usa,fishing,M,No
+1235,2004,usa,fishing,M,No
+1236,2003,usa,fishing,F,No
+1237,2003,usa,fishing,M,No
+1238,2003,usa,fishing,M,No
+1239,2003,usa,fishing,F,No
+1240,2003,usa,fishing,M,No
+1241,2003,usa,fishing,M,No
+1242,2002,usa,fishing,M,No
+1243,2002,usa,fishing,M,No
+1244,2002,usa,fishing,M,No
+1245,2002,usa,fishing,M,Yes
+1246,2002,usa,fishing,M,No
+1247,2002,usa,fishing,M,No
+1248,2002,usa,fishing,M,No
+1249,2002,usa,fishing,F,No
+1250,2001,usa,fishing,M,No
+1251,2001,usa,fishing,M,No
+1252,2001,usa,fishing,M,No
+1253,2001,usa,fishing,Unknown,No
+1254,2001,usa,fishing,M,No
+1255,2001,usa,fishing,F,No
+1256,2000,usa,fishing,M,No
+1257,2000,usa,fishing,M,No
+1258,2000,usa,fishing,M,No
+1259,2000,usa,fishing,F,No
+1260,2000,usa,fishing,F,No
+1261,2000,usa,fishing,F,No
+1262,2000,usa,fishing,M,No
+1263,2000,usa,fishing,M,No
+1264,2000,usa,fishing,M,No
+1265,2000,usa,fishing,M,No
+1266,1999,usa,fishing,M,No
+1267,1999,usa,fishing,F,No
+1268,1999,usa,fishing,F,No
+1269,1999,usa,fishing,M,No
+1270,1999,usa,fishing,M,No
+1271,1999,usa,fishing,F,No
+1272,1999,usa,fishing,M,No
+1273,1998,usa,fishing,M,No
+1274,1998,usa,fishing,M,No
+1275,1997,usa,fishing,F,No
+1276,1997,usa,fishing,M,No
+1277,1997,usa,fishing,M,No
+1278,1997,usa,fishing,M,No
+1279,1997,usa,fishing,M,No
+1280,1996,usa,fishing,M,No
+1281,1996,usa,fishing,M,No
+1282,1995,usa,fishing,M,No
+1283,1995,usa,fishing,F,No
+1284,1994,usa,fishing,F,No
+1285,1994,usa,fishing,M,No
+1286,1994,usa,fishing,F,No
+1287,1994,usa,fishing,M,No
+1288,1994,usa,fishing,M,No
+1289,1993,usa,fishing,M,No
+1290,1993,usa,fishing,M,No
+1291,1992,usa,fishing,M,No
+1292,1992,usa,fishing,M,No
+1293,1992,usa,fishing,M,Unknown
+1294,1992,usa,fishing,M,Unknown
+1295,1992,usa,fishing,M,Unknown
+1296,1991,usa,fishing,M,Yes
+1297,1991,usa,fishing,M,No
+1298,1991,usa,fishing,F,No
+1299,1991,usa,fishing,M,No
+1300,1990,usa,fishing,M,No
+1301,1990,usa,fishing,F,No
+1302,1990,usa,fishing,M,Yes
+1303,1989,usa,fishing,M,No
+1304,1989,usa,fishing,M,Unknown
+1305,1989,usa,fishing,M,No
+1306,1989,usa,fishing,M,No
+1307,1989,usa,fishing,M,No
+1308,1988,usa,fishing,F,No
+1309,1988,usa,fishing,M,No
+1310,1987,usa,fishing,M,No
+1311,1987,usa,fishing,F,No
+1312,1987,usa,fishing,M,No
+1313,1986,usa,fishing,M,No
+1314,1986,usa,fishing,M,Yes
+1315,1985,usa,fishing,M,No
+1316,1985,usa,fishing,M,No
+1317,1985,usa,fishing,M,No
+1318,1985,usa,fishing,M,No
+1319,1985,usa,fishing,M,Unknown
+1320,1985,usa,fishing,F,No
+1321,1985,usa,fishing,Unknown,No
+1322,1984,usa,fishing,M,No
+1323,1984,usa,fishing,F,Unknown
+1324,1984,usa,fishing,M,No
+1325,1984,usa,fishing,M,No
+1326,1983,usa,fishing,M,No
+1327,1983,usa,fishing,Unknown,No
+1328,1983,usa,fishing,M,No
+1329,1983,usa,fishing,M,No
+1330,1982,usa,fishing,F,No
+1331,1981,usa,fishing,M,No
+1332,1981,usa,fishing,M,Unknown
+1333,1981,usa,fishing,M,No
+1334,1981,usa,fishing,M,Yes
+1335,1981,usa,fishing,M,No
+1336,1981,usa,fishing,M,No
+1337,1980,usa,fishing,F,No
+1338,1979,usa,fishing,M,Yes
+1339,1978,usa,fishing,M,No
+1340,1978,usa,fishing,M,No
+1341,1977,usa,fishing,M,Unknown
+1342,1977,usa,fishing,M,No
+1343,1977,usa,fishing,M,No
+1344,1977,usa,fishing,M,No
+1345,1976,usa,fishing,M,No
+1346,1976,usa,fishing,M,No
+1347,1976,usa,fishing,M,No
+1348,1975,usa,fishing,M,No
+1349,1972,usa,fishing,M,No
+1350,1972,usa,fishing,M,No
+1351,1971,usa,fishing,M,No
+1352,1970,usa,fishing,M,No
+1353,1970,usa,fishing,M,No
+1354,1969,usa,fishing,M,No
+1355,1969,usa,fishing,M,NA
+1356,1969,usa,fishing,M,No
+1357,1969,usa,fishing,M,No
+1358,1968,usa,fishing,M,No
+1359,1968,usa,fishing,M,No
+1360,1968,usa,fishing,M,No
+1361,1968,usa,fishing,M,Unknown
+1362,1967,usa,fishing,Unknown,No
+1363,1967,usa,fishing,M,No
+1364,1967,usa,fishing,M,No
+1365,1966,usa,fishing,M,No
+1366,1966,usa,fishing,M,No
+1367,1966,usa,fishing,M,Unknown
+1368,1966,usa,fishing,M,No
+1369,1966,usa,fishing,M,No
+1370,1966,usa,fishing,M,No
+1371,1966,usa,fishing,M,Unknown
+1372,1965,usa,fishing,M,Unknown
+1373,1965,usa,fishing,M,No
+1374,1964,usa,fishing,Unknown,No
+1375,1964,usa,fishing,M,Unknown
+1376,1964,usa,fishing,M,No
+1377,1964,usa,fishing,Unknown,No
+1378,1963,usa,fishing,Unknown,Unknown
+1379,1963,usa,fishing,M,No
+1380,1963,usa,fishing,M,No
+1381,1962,usa,fishing,F,Unknown
+1382,1962,usa,fishing,M,No
+1383,1961,usa,fishing,M,No
+1384,1961,usa,fishing,M,No
+1385,1961,usa,fishing,M,No
+1386,1961,usa,fishing,M,Yes
+1387,1961,usa,fishing,M,No
+1388,1961,usa,fishing,M,No
+1389,1960,usa,fishing,M,Yes
+1390,1960,usa,fishing,M,No
+1391,1960,usa,fishing,M,No
+1392,1960,usa,fishing,M,No
+1393,1960,usa,fishing,M,Unknown
+1394,1959,usa,fishing,M,Yes
+1395,1959,usa,fishing,M,No
+1396,1959,usa,fishing,M,No
+1397,1959,usa,fishing,M,Unknown
+1398,1959,usa,fishing,Unknown,No
+1399,1959,usa,fishing,M,No
+1400,1959,usa,fishing,M,No
+1401,1958,usa,fishing,Unknown,No
+1402,1958,usa,fishing,M,No
+1403,1958,usa,fishing,M,No
+1404,1958,usa,fishing,M,No
+1405,1957,usa,fishing,M,No
+1406,1956,usa,fishing,M,No
+1407,1956,usa,fishing,F,No
+1408,1955,usa,fishing,Unknown,No
+1409,1955,usa,fishing,M,No
+1410,1955,usa,fishing,M,No
+1411,1955,usa,fishing,M,No
+1412,1955,usa,fishing,M,No
+1413,1955,usa,fishing,M,No
+1414,1954,usa,fishing,M,No
+1415,1954,usa,fishing,M,Unknown
+1416,1954,usa,fishing,M,No
+1417,1953,usa,fishing,M,Yes
+1418,1953,usa,fishing,M,No
+1419,1952,usa,fishing,Unknown,No
+1420,1952,usa,fishing,M,No
+1421,1952,usa,fishing,M,No
+1422,1952,usa,fishing,M,No
+1423,1952,usa,fishing,M,No
+1424,1951,usa,fishing,M,Yes
+1425,1950,usa,fishing,M,Unknown
+1426,1950,usa,fishing,M,Unknown
+1427,1949,usa,fishing,M,No
+1428,1948,usa,fishing,M,No
+1429,1947,usa,fishing,M,No
+1430,1947,usa,fishing,M,No
+1431,1944,usa,fishing,Unknown,No
+1432,1943,usa,fishing,M,No
+1433,1943,usa,fishing,M,No
+1434,1941,usa,fishing,Unknown,No
+1435,1941,usa,fishing,Unknown,No
+1436,1941,usa,fishing,M,No
+1437,1941,usa,fishing,M,No
+1438,1941,usa,fishing,M,No
+1439,1940,usa,fishing,M,No
+1440,1939,usa,fishing,M,No
+1441,1939,usa,fishing,M,No
+1442,1938,usa,fishing,M,No
+1443,1938,usa,fishing,M,No
+1444,1938,usa,fishing,M,No
+1445,1937,usa,fishing,M,No
+1446,1936,usa,fishing,M,No
+1447,1936,usa,fishing,Unknown,No
+1448,1936,usa,fishing,M,No
+1449,1935,usa,fishing,M,Unknown
+1450,1935,usa,fishing,M,Unknown
+1451,1935,usa,fishing,M,No
+1452,1933,usa,fishing,M,No
+1453,1932,usa,fishing,M,No
+1454,1932,usa,fishing,M,No
+1455,1932,usa,fishing,M,No
+1456,1931,usa,fishing,M,Unknown
+1457,1931,usa,fishing,Unknown,No
+1458,1931,usa,fishing,M,No
+1459,1929,usa,fishing,M,No
+1460,1929,usa,fishing,M,No
+1461,1928,usa,fishing,M,No
+1462,1928,usa,fishing,M,No
+1463,1926,usa,fishing,M,No
+1464,1924,usa,fishing,M,No
+1465,1923,usa,fishing,M,No
+1466,1923,usa,fishing,M,No
+1467,1923,usa,fishing,M,No
+1468,1922,usa,fishing,Unknown,No
+1469,1918,usa,fishing,M,Yes
+1470,1916,usa,fishing,M,Yes
+1471,1916,usa,fishing,M,No
+1472,1914,usa,fishing,M,No
+1473,1914,usa,fishing,F,No
+1474,1913,usa,fishing,Unknown,No
+1475,1913,usa,fishing,M,No
+1476,1911,usa,fishing,M,No
+1477,1911,usa,fishing,M,No
+1478,1910,usa,fishing,M,Unknown
+1479,1909,usa,fishing,M,Yes
+1480,1909,usa,fishing,M,No
+1481,1908,usa,fishing,M,No
+1482,1908,usa,fishing,M,Yes
+1483,1907,usa,fishing,M,No
+1484,1907,usa,fishing,M,No
+1485,1907,usa,fishing,M,Yes
+1486,1907,usa,fishing,M,Yes
+1487,1906,usa,fishing,M,No
+1488,NA,usa,fishing,M,No
+1489,1905,usa,fishing,M,Yes
+1490,1905,usa,fishing,M,Yes
+1491,1903,usa,fishing,M,No
+1492,1903,usa,fishing,M,Yes
+1493,1902,usa,fishing,M,No
+1494,1899,usa,fishing,M,No
+1495,1898,usa,fishing,M,No
+1496,1897,usa,fishing,M,No
+1497,1897,usa,fishing,M,Yes
+1498,1896,usa,fishing,M,Yes
+1499,1895,usa,fishing,Unknown,No
+1500,1895,usa,fishing,M,No
+1501,1894,usa,fishing,M,No
+1502,1894,usa,fishing,M,No
+1503,1891,usa,fishing,M,Unknown
+1504,1890,usa,fishing,Unknown,No
+1505,1889,usa,fishing,M,No
+1506,1889,usa,fishing,Unknown,No
+1507,1886,usa,fishing,F,Unknown
+1508,1878,usa,fishing,M,No
+1509,1876,usa,fishing,M,Yes
+1510,1874,usa,fishing,M,No
+1511,1873,usa,fishing,M,No
+1512,1871,usa,fishing,M,No
+1513,1871,usa,fishing,M,No
+1514,1863,usa,fishing,M,No
+1515,1852,usa,fishing,M,Yes
+1516,1847,usa,fishing,M,No
+1517,1830,usa,fishing,M,Yes
+1518,1771,usa,fishing,M,Yes
+1519,NA,usa,fishing,M,Yes
+1520,NA,usa,fishing,M,No
+1521,NA,usa,fishing,M,No
+1522,2018,australia,fishing,M,No
+1523,2018,australia,fishing,M,No
+1524,2018,australia,fishing,M,No
+1525,2017,australia,fishing,F,No
+1526,2017,australia,fishing,Unknown,No
+1527,2017,australia,fishing,M,No
+1528,2017,australia,fishing,M,No
+1529,2017,australia,fishing,M,Unknown
+1530,2017,australia,fishing,M,Unknown
+1531,2016,australia,fishing,M,No
+1532,2016,australia,fishing,Unknown,No
+1533,2016,australia,fishing,M,No
+1534,2016,australia,fishing,M,No
+1535,2016,australia,fishing,M,No
+1536,2016,australia,fishing,M,Unknown
+1537,2016,australia,fishing,M,No
+1538,2016,australia,fishing,M,No
+1539,2016,australia,fishing,M,No
+1540,2015,australia,fishing,Unknown,No
+1541,2015,australia,fishing,M,No
+1542,2015,australia,fishing,M,No
+1543,2015,australia,fishing,M,No
+1544,2014,australia,fishing,M,Yes
+1545,2014,australia,fishing,M,No
+1546,2014,australia,fishing,M,Yes
+1547,2014,australia,fishing,M,No
+1548,2014,australia,fishing,M,No
+1549,2014,australia,fishing,M,No
+1550,2014,australia,fishing,M,Yes
+1551,2014,australia,fishing,M,No
+1552,2013,australia,fishing,M,No
+1553,2013,australia,fishing,M,No
+1554,2013,australia,fishing,M,No
+1555,2013,australia,fishing,M,No
+1556,2013,australia,fishing,M,No
+1557,2013,australia,fishing,M,No
+1558,2012,australia,fishing,M,No
+1559,2012,australia,fishing,Unknown,No
+1560,2012,australia,fishing,Unknown,No
+1561,2012,australia,fishing,M,No
+1562,2012,australia,fishing,M,No
+1563,2011,australia,fishing,Unknown,Unknown
+1564,2011,australia,fishing,M,No
+1565,2011,australia,fishing,M,No
+1566,2011,australia,fishing,M,No
+1567,2011,australia,fishing,Unknown,No
+1568,2010,australia,fishing,M,No
+1569,2010,australia,fishing,M,No
+1570,2010,australia,fishing,F,No
+1571,2009,australia,fishing,M,No
+1572,2009,australia,fishing,M,No
+1573,2009,australia,fishing,M,No
+1574,2009,australia,fishing,M,No
+1575,2008,australia,fishing,Unknown,No
+1576,2008,australia,fishing,M,No
+1577,2008,australia,fishing,M,No
+1578,2007,australia,fishing,M,No
+1579,2007,australia,fishing,M,No
+1580,2007,australia,fishing,M,No
+1581,2007,australia,fishing,F,No
+1582,2006,australia,fishing,M,No
+1583,2006,australia,fishing,M,No
+1584,2005,australia,fishing,M,No
+1585,2005,australia,fishing,Unknown,No
+1586,2005,australia,fishing,Unknown,No
+1587,2005,australia,fishing,M,No
+1588,2005,australia,fishing,M,No
+1589,2005,australia,fishing,M,No
+1590,2005,australia,fishing,M,No
+1591,2004,australia,fishing,M,Yes
+1592,2004,australia,fishing,Unknown,No
+1593,2004,australia,fishing,M,No
+1594,2004,australia,fishing,Unknown,No
+1595,2004,australia,fishing,M,Unknown
+1596,2004,australia,fishing,M,No
+1597,2004,australia,fishing,M,Unknown
+1598,2003,australia,fishing,M,No
+1599,2002,australia,fishing,M,No
+1600,2002,australia,fishing,M,Unknown
+1601,2001,australia,fishing,Unknown,No
+1602,2001,australia,fishing,Unknown,No
+1603,2000,australia,fishing,Unknown,No
+1604,2000,australia,fishing,M,No
+1605,2000,australia,fishing,Unknown,No
+1606,1999,australia,fishing,F,Unknown
+1607,1998,australia,fishing,M,Unknown
+1608,1996,australia,fishing,M,No
+1609,1994,australia,fishing,Unknown,No
+1610,1993,australia,fishing,Unknown,No
+1611,1993,australia,fishing,M,Unknown
+1612,1993,australia,fishing,M,No
+1613,1993,australia,fishing,M,No
+1614,1990,australia,fishing,M,No
+1615,1989,australia,fishing,M,No
+1616,1989,australia,fishing,M,No
+1617,1988,australia,fishing,Unknown,No
+1618,1988,australia,fishing,M,Unknown
+1619,1987,australia,fishing,M,No
+1620,1986,australia,fishing,Unknown,No
+1621,1985,australia,fishing,M,No
+1622,1984,australia,fishing,M,No
+1623,1982,australia,fishing,M,Yes
+1624,1975,australia,fishing,M,No
+1625,1975,australia,fishing,M,No
+1626,1974,australia,fishing,M,No
+1627,1974,australia,fishing,M,No
+1628,1972,australia,fishing,M,No
+1629,1971,australia,fishing,M,Yes
+1630,1971,australia,fishing,M,No
+1631,1969,australia,fishing,M,No
+1632,1968,australia,fishing,M,No
+1633,1967,australia,fishing,M,Yes
+1634,1967,australia,fishing,M,No
+1635,1966,australia,fishing,M,No
+1636,1966,australia,fishing,M,No
+1637,1966,australia,fishing,M,No
+1638,1966,australia,fishing,M,No
+1639,1966,australia,fishing,M,Unknown
+1640,1966,australia,fishing,M,NA
+1641,1966,australia,fishing,M,No
+1642,1966,australia,fishing,M,No
+1643,1966,australia,fishing,Unknown,No
+1644,1966,australia,fishing,M,No
+1645,1965,australia,fishing,M,No
+1646,1965,australia,fishing,Unknown,No
+1647,1965,australia,fishing,M,Yes
+1648,1964,australia,fishing,Unknown,No
+1649,1963,australia,fishing,M,No
+1650,1963,australia,fishing,M,No
+1651,1963,australia,fishing,M,No
+1652,1963,australia,fishing,M,No
+1653,1963,australia,fishing,F,Yes
+1654,1963,australia,fishing,Unknown,No
+1655,1962,australia,fishing,M,Yes
+1656,1962,australia,fishing,M,No
+1657,1962,australia,fishing,Unknown,No
+1658,1962,australia,fishing,Unknown,No
+1659,1962,australia,fishing,Unknown,No
+1660,1962,australia,fishing,Unknown,No
+1661,1962,australia,fishing,M,No
+1662,1962,australia,fishing,M,No
+1663,1962,australia,fishing,Unknown,No
+1664,1962,australia,fishing,Unknown,No
+1665,1962,australia,fishing,Unknown,No
+1666,1962,australia,fishing,Unknown,No
+1667,1961,australia,fishing,M,No
+1668,1961,australia,fishing,Unknown,No
+1669,1961,australia,fishing,Unknown,No
+1670,1961,australia,fishing,M,No
+1671,1961,australia,fishing,M,No
+1672,1961,australia,fishing,M,No
+1673,1961,australia,fishing,M,No
+1674,1961,australia,fishing,M,No
+1675,1961,australia,fishing,M,No
+1676,1961,australia,fishing,M,No
+1677,1961,australia,fishing,F,No
+1678,1961,australia,fishing,M,No
+1679,1961,australia,fishing,M,No
+1680,1961,australia,fishing,M,No
+1681,1961,australia,fishing,Unknown,No
+1682,1960,australia,fishing,M,No
+1683,1960,australia,fishing,M,No
+1684,1960,australia,fishing,M,No
+1685,1960,australia,fishing,M,Unknown
+1686,1960,australia,fishing,M,No
+1687,1960,australia,fishing,M,No
+1688,1960,australia,fishing,M,No
+1689,1960,australia,fishing,M,No
+1690,1960,australia,fishing,Unknown,No
+1691,1960,australia,fishing,M,No
+1692,1960,australia,fishing,Unknown,No
+1693,1960,australia,fishing,M,No
+1694,1960,australia,fishing,M,No
+1695,1960,australia,fishing,Unknown,No
+1696,1959,australia,fishing,Unknown,No
+1697,1959,australia,fishing,M,No
+1698,1959,australia,fishing,M,Unknown
+1699,1959,australia,fishing,Unknown,No
+1700,1959,australia,fishing,M,No
+1701,1959,australia,fishing,M,Unknown
+1702,1959,australia,fishing,M,No
+1703,1959,australia,fishing,M,No
+1704,1959,australia,fishing,M,No
+1705,1958,australia,fishing,M,Unknown
+1706,1957,australia,fishing,M,No
+1707,1957,australia,fishing,Unknown,No
+1708,1957,australia,fishing,M,No
+1709,1955,australia,fishing,M,No
+1710,1955,australia,fishing,Unknown,No
+1711,1954,australia,fishing,M,Yes
+1712,1954,australia,fishing,M,No
+1713,1953,australia,fishing,M,No
+1714,1953,australia,fishing,M,No
+1715,1953,australia,fishing,M,No
+1716,1953,australia,fishing,M,No
+1717,1953,australia,fishing,M,No
+1718,1953,australia,fishing,Unknown,No
+1719,1953,australia,fishing,M,No
+1720,1952,australia,fishing,M,No
+1721,1952,australia,fishing,M,No
+1722,1952,australia,fishing,Unknown,No
+1723,1951,australia,fishing,M,No
+1724,1951,australia,fishing,M,No
+1725,1950,australia,fishing,M,No
+1726,1950,australia,fishing,Unknown,No
+1727,1950,australia,fishing,M,Yes
+1728,1950,australia,fishing,M,No
+1729,1949,australia,fishing,M,No
+1730,1949,australia,fishing,M,No
+1731,1948,australia,fishing,M,No
+1732,1947,australia,fishing,M,No
+1733,1947,australia,fishing,Unknown,No
+1734,1947,australia,fishing,M,No
+1735,1947,australia,fishing,M,No
+1736,1947,australia,fishing,M,No
+1737,1947,australia,fishing,Unknown,No
+1738,1947,australia,fishing,Unknown,No
+1739,1946,australia,fishing,Unknown,No
+1740,1946,australia,fishing,M,No
+1741,1944,australia,fishing,Unknown,No
+1742,1944,australia,fishing,M,No
+1743,1943,australia,fishing,M,No
+1744,1942,australia,fishing,M,No
+1745,1941,australia,fishing,M,No
+1746,1940,australia,fishing,M,No
+1747,1940,australia,fishing,M,No
+1748,1940,australia,fishing,M,Yes
+1749,1938,australia,fishing,M,No
+1750,1938,australia,fishing,M,No
+1751,1937,australia,fishing,M,No
+1752,1937,australia,fishing,Unknown,No
+1753,1937,australia,fishing,M,No
+1754,1936,australia,fishing,Unknown,No
+1755,1936,australia,fishing,M,Yes
+1756,1936,australia,fishing,M,No
+1757,1935,australia,fishing,M,No
+1758,1935,australia,fishing,Unknown,No
+1759,1934,australia,fishing,Unknown,No
+1760,1934,australia,fishing,M,No
+1761,1934,australia,fishing,Unknown,No
+1762,1933,australia,fishing,M,Unknown
+1763,1933,australia,fishing,M,No
+1764,1933,australia,fishing,M,No
+1765,1932,australia,fishing,M,No
+1766,1932,australia,fishing,Unknown,NA
+1767,1931,australia,fishing,M,Yes
+1768,1931,australia,fishing,M,No
+1769,1930,australia,fishing,Unknown,No
+1770,1930,australia,fishing,M,No
+1771,1930,australia,fishing,M,No
+1772,1929,australia,fishing,M,No
+1773,1928,australia,fishing,M,No
+1774,1924,australia,fishing,M,Yes
+1775,1923,australia,fishing,M,Yes
+1776,1923,australia,fishing,M,Unknown
+1777,1923,australia,fishing,Unknown,No
+1778,1923,australia,fishing,M,No
+1779,1921,australia,fishing,M,No
+1780,1920,australia,fishing,M,No
+1781,1919,australia,fishing,M,Yes
+1782,1919,australia,fishing,M,Yes
+1783,1914,australia,fishing,M,No
+1784,1914,australia,fishing,F,No
+1785,1909,australia,fishing,M,No
+1786,1899,australia,fishing,Unknown,No
+1787,1896,australia,fishing,M,No
+1788,1895,australia,fishing,M,Yes
+1789,1892,australia,fishing,M,No
+1790,1892,australia,fishing,M,No
+1791,1890,australia,fishing,M,No
+1792,1888,australia,fishing,Unknown,No
+1793,1886,australia,fishing,M,No
+1794,1882,australia,fishing,M,Yes
+1795,1880,australia,fishing,Unknown,No
+1796,1877,australia,fishing,M,No
+1797,1877,australia,fishing,M,No
+1798,1875,australia,fishing,M,No
+1799,1871,australia,fishing,M,No
+1800,1870,australia,fishing,M,No
+1801,1869,australia,fishing,M,No
+1802,1868,australia,fishing,Unknown,No
+1803,1845,australia,fishing,M,Yes
+1804,1832,australia,fishing,F,No
+1805,1788,australia,fishing,Unknown,No
+1806,NA,australia,fishing,M,No
+1807,NA,australia,fishing,M,Yes
+1808,NA,australia,fishing,M,Yes
+1809,NA,australia,fishing,M,Yes
+1810,2017,south africa,fishing,M,No
+1811,2016,south africa,fishing,M,No
+1812,2016,south africa,fishing,M,No
+1813,2015,south africa,fishing,M,No
+1814,2015,south africa,fishing,M,No
+1815,2014,south africa,fishing,M,No
+1816,2013,south africa,fishing,M,No
+1817,2012,south africa,fishing,Unknown,No
+1818,2011,south africa,fishing,M,No
+1819,2011,south africa,fishing,M,Yes
+1820,2011,south africa,fishing,M,No
+1821,2009,south africa,fishing,M,No
+1822,2009,south africa,fishing,M,No
+1823,2009,south africa,fishing,M,No
+1824,2008,south africa,fishing,M,No
+1825,2008,south africa,fishing,M,No
+1826,2008,south africa,fishing,M,No
+1827,2008,south africa,fishing,M,No
+1828,2006,south africa,fishing,M,No
+1829,2006,south africa,fishing,M,Unknown
+1830,2006,south africa,fishing,M,No
+1831,2006,south africa,fishing,M,No
+1832,2005,south africa,fishing,M,No
+1833,2005,south africa,fishing,M,Yes
+1834,2004,south africa,fishing,Unknown,No
+1835,2003,south africa,fishing,M,Yes
+1836,2003,south africa,fishing,Unknown,No
+1837,2002,south africa,fishing,M,No
+1838,1999,south africa,fishing,M,No
+1839,1998,south africa,fishing,M,No
+1840,1998,south africa,fishing,M,No
+1841,1998,south africa,fishing,M,No
+1842,1998,south africa,fishing,M,No
+1843,1997,south africa,fishing,M,Yes
+1844,1997,south africa,fishing,Unknown,No
+1845,1996,south africa,fishing,M,No
+1846,1994,south africa,fishing,M,No
+1847,1994,south africa,fishing,M,Yes
+1848,1994,south africa,fishing,M,No
+1849,1993,south africa,fishing,M,No
+1850,1992,south africa,fishing,M,No
+1851,1991,south africa,fishing,M,No
+1852,1990,south africa,fishing,M,No
+1853,1990,south africa,fishing,Unknown,No
+1854,1989,south africa,fishing,M,Yes
+1855,1989,south africa,fishing,M,No
+1856,1988,south africa,fishing,M,No
+1857,1987,south africa,fishing,M,No
+1858,1987,south africa,fishing,M,Unknown
+1859,1987,south africa,fishing,M,No
+1860,1986,south africa,fishing,M,No
+1861,1986,south africa,fishing,M,Unknown
+1862,1986,south africa,fishing,M,Unknown
+1863,1986,south africa,fishing,M,No
+1864,1986,south africa,fishing,M,No
+1865,1985,south africa,fishing,M,No
+1866,1985,south africa,fishing,M,No
+1867,1985,south africa,fishing,M,No
+1868,1984,south africa,fishing,M,Unknown
+1869,1984,south africa,fishing,M,No
+1870,1984,south africa,fishing,M,No
+1871,1984,south africa,fishing,M,No
+1872,1983,south africa,fishing,M,No
+1873,1983,south africa,fishing,M,No
+1874,1983,south africa,fishing,M,No
+1875,1983,south africa,fishing,M,No
+1876,1982,south africa,fishing,M,No
+1877,1980,south africa,fishing,M,No
+1878,1980,south africa,fishing,M,No
+1879,1980,south africa,fishing,M,Unknown
+1880,1979,south africa,fishing,Unknown,No
+1881,1979,south africa,fishing,M,No
+1882,1979,south africa,fishing,M,No
+1883,1978,south africa,fishing,M,Yes
+1884,1978,south africa,fishing,M,Unknown
+1885,1978,south africa,fishing,M,No
+1886,1978,south africa,fishing,Unknown,No
+1887,1977,south africa,fishing,Unknown,No
+1888,1977,south africa,fishing,M,No
+1889,1977,south africa,fishing,M,No
+1890,1977,south africa,fishing,M,No
+1891,1976,south africa,fishing,Unknown,No
+1892,1976,south africa,fishing,Unknown,No
+1893,1976,south africa,fishing,Unknown,No
+1894,1976,south africa,fishing,Unknown,No
+1895,1976,south africa,fishing,Unknown,No
+1896,1975,south africa,fishing,M,No
+1897,1975,south africa,fishing,M,No
+1898,1974,south africa,fishing,M,No
+1899,1974,south africa,fishing,Unknown,No
+1900,1974,south africa,fishing,Unknown,No
+1901,1974,south africa,fishing,Unknown,No
+1902,1973,south africa,fishing,M,Yes
+1903,1973,south africa,fishing,M,No
+1904,1973,south africa,fishing,M,No
+1905,1968,south africa,fishing,M,No
+1906,1968,south africa,fishing,M,No
+1907,1968,south africa,fishing,M,No
+1908,1967,south africa,fishing,M,No
+1909,1967,south africa,fishing,Unknown,No
+1910,1967,south africa,fishing,M,No
+1911,1964,south africa,fishing,M,Yes
+1912,1963,south africa,fishing,M,No
+1913,1963,south africa,fishing,Unknown,No
+1914,1963,south africa,fishing,M,No
+1915,1963,south africa,fishing,M,No
+1916,1963,south africa,fishing,M,No
+1917,1962,south africa,fishing,Unknown,No
+1918,1962,south africa,fishing,M,No
+1919,1962,south africa,fishing,Unknown,No
+1920,1962,south africa,fishing,M,No
+1921,1962,south africa,fishing,Unknown,No
+1922,1962,south africa,fishing,M,Unknown
+1923,1962,south africa,fishing,Unknown,No
+1924,1961,south africa,fishing,M,No
+1925,1961,south africa,fishing,M,No
+1926,1961,south africa,fishing,Unknown,No
+1927,1960,south africa,fishing,Unknown,No
+1928,1960,south africa,fishing,Unknown,No
+1929,1960,south africa,fishing,M,No
+1930,1960,south africa,fishing,Unknown,No
+1931,1960,south africa,fishing,F,No
+1932,1959,south africa,fishing,Unknown,No
+1933,1959,south africa,fishing,M,No
+1934,1959,south africa,fishing,M,No
+1935,1958,south africa,fishing,M,Unknown
+1936,1958,south africa,fishing,M,Unknown
+1937,1958,south africa,fishing,Unknown,No
+1938,1958,south africa,fishing,M,Yes
+1939,1957,south africa,fishing,M,Yes
+1940,1956,south africa,fishing,M,No
+1941,1956,south africa,fishing,Unknown,No
+1942,1950,south africa,fishing,M,No
+1943,1950,south africa,fishing,M,No
+1944,1948,south africa,fishing,Unknown,No
+1945,1947,south africa,fishing,M,No
+1946,1936,south africa,fishing,Unknown,No
+1947,1932,south africa,fishing,M,No
+1948,1897,south africa,fishing,M,Yes
+1949,1885,south africa,fishing,M,No
+1950,1865,south africa,fishing,M,Yes
+1951,NA,south africa,fishing,F,No
+1952,NA,south africa,fishing,M,Yes
+1953,NA,south africa,fishing,M,Yes
+1954,1967,papua new guinea,fishing,M,Unknown
+1955,1967,papua new guinea,fishing,M,Yes
+1956,1967,papua new guinea,fishing,M,Yes
+1957,1965,papua new guinea,fishing,M,No
+1958,1965,papua new guinea,fishing,M,No
+1959,1965,papua new guinea,fishing,M,No
+1960,1965,papua new guinea,fishing,M,No
+1961,1964,papua new guinea,fishing,M,Yes
+1962,1964,papua new guinea,fishing,M,No
+1963,1964,papua new guinea,fishing,M,Yes
+1964,1964,papua new guinea,fishing,M,Yes
+1965,1963,papua new guinea,fishing,F,No
+1966,1963,papua new guinea,fishing,M,No
+1967,1963,papua new guinea,fishing,M,No
+1968,1962,papua new guinea,fishing,M,No
+1969,1962,papua new guinea,fishing,M,Yes
+1970,1962,papua new guinea,fishing,M,No
+1971,1961,papua new guinea,fishing,M,No
+1972,1961,papua new guinea,fishing,M,No
+1973,1960,papua new guinea,fishing,M,Yes
+1974,1960,papua new guinea,fishing,M,No
+1975,1960,papua new guinea,fishing,M,No
+1976,1960,papua new guinea,fishing,M,Yes
+1977,1960,papua new guinea,fishing,M,Yes
+1978,1960,papua new guinea,fishing,M,No
+1979,1959,papua new guinea,fishing,M,No
+1980,1959,papua new guinea,fishing,M,No
+1981,1959,papua new guinea,fishing,M,No
+1982,1959,papua new guinea,fishing,M,No
+1983,1959,papua new guinea,fishing,M,No
+1984,1958,papua new guinea,fishing,M,Yes
+1985,1958,papua new guinea,fishing,M,No
+1986,1958,papua new guinea,fishing,M,Yes
+1987,1958,papua new guinea,fishing,M,Yes
+1988,1958,papua new guinea,fishing,M,No
+1989,1957,papua new guinea,fishing,M,Yes
+1990,1957,papua new guinea,fishing,M,Yes
+1991,1956,papua new guinea,fishing,M,Yes
+1992,1956,papua new guinea,fishing,M,Yes
+1993,1956,papua new guinea,fishing,M,No
+1994,1956,papua new guinea,fishing,M,Yes
+1995,1956,papua new guinea,fishing,M,Yes
+1996,1956,papua new guinea,fishing,M,No
+1997,1956,papua new guinea,fishing,M,No
+1998,1956,papua new guinea,fishing,M,No
+1999,1955,papua new guinea,fishing,M,No
+2000,1955,papua new guinea,fishing,M,No
+2001,1955,papua new guinea,fishing,M,No
+2002,1955,papua new guinea,fishing,M,No
+2003,1954,papua new guinea,fishing,M,Yes
+2004,1952,papua new guinea,fishing,M,No
+2005,1952,papua new guinea,fishing,M,No
+2006,1952,papua new guinea,fishing,M,Yes
+2007,1952,papua new guinea,fishing,M,Yes
+2008,1949,papua new guinea,fishing,M,Yes
+2009,1948,papua new guinea,fishing,M,No
+2010,1948,papua new guinea,fishing,M,No
+2011,2016,new zealand,fishing,M,No
+2012,2014,new zealand,fishing,M,No
+2013,2013,new zealand,fishing,M,No
+2014,2010,new zealand,fishing,M,No
+2015,2009,new zealand,fishing,M,No
+2016,2009,new zealand,fishing,Unknown,No
+2017,2009,new zealand,fishing,Unknown,No
+2018,2008,new zealand,fishing,M,No
+2019,2008,new zealand,fishing,M,Unknown
+2020,2007,new zealand,fishing,M,No
+2021,2005,new zealand,fishing,M,No
+2022,2005,new zealand,fishing,M,No
+2023,2004,new zealand,fishing,Unknown,No
+2024,2004,new zealand,fishing,M,No
+2025,2004,new zealand,fishing,M,Unknown
+2026,2000,new zealand,fishing,M,No
+2027,1999,new zealand,fishing,M,No
+2028,1999,new zealand,fishing,M,No
+2029,1995,new zealand,fishing,M,No
+2030,1976,new zealand,fishing,M,Yes
+2031,1968,new zealand,fishing,M,Yes
+2032,1964,new zealand,fishing,M,No
+2033,1963,new zealand,fishing,Unknown,No
+2034,1962,new zealand,fishing,Unknown,NA
+2035,1962,new zealand,fishing,Unknown,No
+2036,1962,new zealand,fishing,M,No
+2037,1960,new zealand,fishing,Unknown,No
+2038,1960,new zealand,fishing,M,No
+2039,1959,new zealand,fishing,M,No
+2040,1956,new zealand,fishing,M,No
+2041,1939,new zealand,fishing,M,No
+2042,1932,new zealand,fishing,M,No
+2043,1927,new zealand,fishing,M,No
+2044,1915,new zealand,fishing,M,Unknown
+2045,1911,new zealand,fishing,Unknown,No
+2046,1911,new zealand,fishing,M,Yes
+2047,2018,usa,swimming,M,No
+2048,2017,usa,swimming,F,No
+2049,2017,usa,swimming,M,No
+2050,2017,usa,swimming,M,No
+2051,2017,usa,swimming,F,No
+2052,2017,usa,swimming,M,No
+2053,2017,usa,swimming,M,Unknown
+2054,2017,usa,swimming,F,Unknown
+2055,2017,usa,swimming,M,No
+2056,2017,usa,swimming,F,No
+2057,2017,usa,swimming,F,No
+2058,2017,usa,swimming,F,No
+2059,2017,usa,swimming,M,Unknown
+2060,2017,usa,swimming,F,No
+2061,2017,usa,swimming,M,No
+2062,2017,usa,swimming,F,No
+2063,2017,usa,swimming,F,No
+2064,2017,usa,swimming,M,No
+2065,2016,usa,swimming,F,No
+2066,2016,usa,swimming,M,No
+2067,2016,usa,swimming,F,No
+2068,2016,usa,swimming,M,No
+2069,2016,usa,swimming,F,No
+2070,2016,usa,swimming,M,No
+2071,2016,usa,swimming,F,No
+2072,2016,usa,swimming,F,No
+2073,2016,usa,swimming,F,No
+2074,2016,usa,swimming,M,No
+2075,2015,usa,swimming,F,No
+2076,2015,usa,swimming,M,No
+2077,2015,usa,swimming,M,No
+2078,2015,usa,swimming,M,No
+2079,2015,usa,swimming,M,No
+2080,2015,usa,swimming,M,No
+2081,2015,usa,swimming,F,Unknown
+2082,2015,usa,swimming,M,No
+2083,2015,usa,swimming,M,No
+2084,2015,usa,swimming,F,No
+2085,2015,usa,swimming,M,No
+2086,2015,usa,swimming,M,Unknown
+2087,2014,usa,swimming,F,No
+2088,2014,usa,swimming,M,No
+2089,2014,usa,swimming,F,No
+2090,2014,usa,swimming,M,No
+2091,2014,usa,swimming,M,No
+2092,2014,usa,swimming,M,No
+2093,2014,usa,swimming,M,No
+2094,2014,usa,swimming,F,No
+2095,2014,usa,swimming,F,No
+2096,2014,usa,swimming,M,No
+2097,2013,usa,swimming,M,No
+2098,2013,usa,swimming,M,No
+2099,2013,usa,swimming,M,No
+2100,2013,usa,swimming,M,No
+2101,2013,usa,swimming,F,Unknown
+2102,2013,usa,swimming,M,No
+2103,2013,usa,swimming,M,No
+2104,2013,usa,swimming,M,No
+2105,2013,usa,swimming,M,No
+2106,2013,usa,swimming,M,No
+2107,2013,usa,swimming,M,No
+2108,2013,usa,swimming,M,No
+2109,2013,usa,swimming,M,No
+2110,2012,usa,swimming,M,No
+2111,2012,usa,swimming,F,No
+2112,2012,usa,swimming,M,No
+2113,2012,usa,swimming,F,No
+2114,2012,usa,swimming,F,No
+2115,2012,usa,swimming,M,No
+2116,2012,usa,swimming,M,No
+2117,2012,usa,swimming,F,No
+2118,2012,usa,swimming,M,No
+2119,2012,usa,swimming,M,No
+2120,2012,usa,swimming,M,No
+2121,2012,usa,swimming,F,No
+2122,2011,usa,swimming,M,No
+2123,2011,usa,swimming,M,No
+2124,2010,usa,swimming,M,No
+2125,2010,usa,swimming,F,Unknown
+2126,2010,usa,swimming,M,No
+2127,2010,usa,swimming,F,No
+2128,2010,usa,swimming,F,No
+2129,2009,usa,swimming,M,No
+2130,2009,usa,swimming,M,Yes
+2131,2009,usa,swimming,F,No
+2132,2009,usa,swimming,M,No
+2133,2009,usa,swimming,F,No
+2134,2009,usa,swimming,F,No
+2135,2009,usa,swimming,F,No
+2136,2009,usa,swimming,M,No
+2137,2009,usa,swimming,M,No
+2138,2008,usa,swimming,M,No
+2139,2008,usa,swimming,M,Unknown
+2140,2008,usa,swimming,M,No
+2141,2008,usa,swimming,M,No
+2142,2008,usa,swimming,M,No
+2143,2008,usa,swimming,F,No
+2144,2008,usa,swimming,M,No
+2145,2008,usa,swimming,M,Yes
+2146,2007,usa,swimming,M,No
+2147,2007,usa,swimming,M,No
+2148,2007,usa,swimming,F,No
+2149,2007,usa,swimming,M,No
+2150,2007,usa,swimming,M,No
+2151,2007,usa,swimming,F,Unknown
+2152,2007,usa,swimming,F,No
+2153,2007,usa,swimming,F,No
+2154,2007,usa,swimming,M,No
+2155,2006,usa,swimming,M,No
+2156,2006,usa,swimming,M,No
+2157,2006,usa,swimming,M,No
+2158,2006,usa,swimming,F,No
+2159,2006,usa,swimming,M,No
+2160,2006,usa,swimming,F,No
+2161,2005,usa,swimming,M,No
+2162,2005,usa,swimming,M,No
+2163,2005,usa,swimming,M,No
+2164,2005,usa,swimming,M,No
+2165,2005,usa,swimming,F,Yes
+2166,2005,usa,swimming,M,Unknown
+2167,2005,usa,swimming,M,No
+2168,2005,usa,swimming,M,No
+2169,2004,usa,swimming,M,No
+2170,2004,usa,swimming,F,No
+2171,2004,usa,swimming,F,No
+2172,2004,usa,swimming,M,No
+2173,2004,usa,swimming,M,No
+2174,2004,usa,swimming,M,Unknown
+2175,2004,usa,swimming,M,No
+2176,2003,usa,swimming,M,Unknown
+2177,2003,usa,swimming,M,No
+2178,2003,usa,swimming,M,Yes
+2179,2003,usa,swimming,F,Unknown
+2180,2003,usa,swimming,F,Yes
+2181,2003,usa,swimming,M,Unknown
+2182,2003,usa,swimming,M,No
+2183,2003,usa,swimming,M,No
+2184,2003,usa,swimming,F,Unknown
+2185,2003,usa,swimming,M,No
+2186,2003,usa,swimming,M,No
+2187,2003,usa,swimming,M,No
+2188,2002,usa,swimming,F,No
+2189,2002,usa,swimming,F,No
+2190,2002,usa,swimming,F,No
+2191,2002,usa,swimming,F,No
+2192,2002,usa,swimming,F,No
+2193,2002,usa,swimming,M,No
+2194,2002,usa,swimming,M,No
+2195,2002,usa,swimming,M,No
+2196,2001,usa,swimming,F,No
+2197,2001,usa,swimming,M,Yes
+2198,2001,usa,swimming,F,No
+2199,2001,usa,swimming,M,Yes
+2200,2001,usa,swimming,M,No
+2201,2001,usa,swimming,M,No
+2202,2001,usa,swimming,M,No
+2203,2001,usa,swimming,M,No
+2204,2000,usa,swimming,M,No
+2205,2000,usa,swimming,F,No
+2206,2000,usa,swimming,M,No
+2207,2000,usa,swimming,M,No
+2208,2000,usa,swimming,M,No
+2209,2000,usa,swimming,M,No
+2210,2000,usa,swimming,M,No
+2211,2000,usa,swimming,M,Unknown
+2212,2000,usa,swimming,M,No
+2213,2000,usa,swimming,M,No
+2214,2000,usa,swimming,M,No
+2215,1999,usa,swimming,F,No
+2216,1999,usa,swimming,M,No
+2217,1999,usa,swimming,M,No
+2218,1999,usa,swimming,F,Yes
+2219,1999,usa,swimming,F,No
+2220,1998,usa,swimming,M,Yes
+2221,1998,usa,swimming,F,No
+2222,1998,usa,swimming,F,No
+2223,1998,usa,swimming,M,No
+2224,1998,usa,swimming,M,No
+2225,1998,usa,swimming,M,No
+2226,1998,usa,swimming,M,No
+2227,1997,usa,swimming,M,No
+2228,1997,usa,swimming,M,No
+2229,1997,usa,swimming,F,No
+2230,1996,usa,swimming,M,No
+2231,1996,usa,swimming,M,No
+2232,1996,usa,swimming,M,No
+2233,1996,usa,swimming,M,No
+2234,1996,usa,swimming,F,No
+2235,1996,usa,swimming,M,No
+2236,1995,usa,swimming,F,No
+2237,1995,usa,swimming,M,Unknown
+2238,1995,usa,swimming,M,No
+2239,1995,usa,swimming,M,No
+2240,1995,usa,swimming,M,Unknown
+2241,1995,usa,swimming,F,No
+2242,1995,usa,swimming,M,No
+2243,1995,usa,swimming,F,No
+2244,1995,usa,swimming,M,No
+2245,1994,usa,swimming,F,No
+2246,1993,usa,swimming,M,No
+2247,1993,usa,swimming,F,No
+2248,1993,usa,swimming,F,No
+2249,1991,usa,swimming,M,No
+2250,1991,usa,swimming,M,No
+2251,1991,usa,swimming,M,No
+2252,1991,usa,swimming,M,No
+2253,1989,usa,swimming,M,No
+2254,1989,usa,swimming,M,No
+2255,1989,usa,swimming,M,Yes
+2256,1988,usa,swimming,F,No
+2257,1988,usa,swimming,M,No
+2258,1988,usa,swimming,M,No
+2259,1987,usa,swimming,F,No
+2260,1987,usa,swimming,M,Yes
+2261,1986,usa,swimming,F,No
+2262,1985,usa,swimming,M,Unknown
+2263,1984,usa,swimming,M,Unknown
+2264,1984,usa,swimming,M,No
+2265,1984,usa,swimming,Unknown,NA
+2266,1984,usa,swimming,F,No
+2267,1984,usa,swimming,F,No
+2268,1983,usa,swimming,F,No
+2269,1983,usa,swimming,M,No
+2270,1982,usa,swimming,M,No
+2271,1982,usa,swimming,M,Unknown
+2272,1982,usa,swimming,F,No
+2273,1982,usa,swimming,M,No
+2274,1982,usa,swimming,F,No
+2275,1982,usa,swimming,F,Yes
+2276,1981,usa,swimming,M,No
+2277,1981,usa,swimming,M,Yes
+2278,1981,usa,swimming,F,Yes
+2279,1981,usa,swimming,F,No
+2280,1979,usa,swimming,M,No
+2281,1977,usa,swimming,M,No
+2282,1977,usa,swimming,M,No
+2283,1976,usa,swimming,M,Yes
+2284,1976,usa,swimming,M,Yes
+2285,1976,usa,swimming,M,No
+2286,1975,usa,swimming,F,No
+2287,1975,usa,swimming,M,No
+2288,1975,usa,swimming,M,No
+2289,1975,usa,swimming,F,No
+2290,1974,usa,swimming,M,Yes
+2291,1974,usa,swimming,F,No
+2292,1974,usa,swimming,F,No
+2293,1973,usa,swimming,M,No
+2294,1970,usa,swimming,M,No
+2295,1966,usa,swimming,M,No
+2296,1966,usa,swimming,M,No
+2297,1966,usa,swimming,M,No
+2298,1965,usa,swimming,M,No
+2299,1964,usa,swimming,M,No
+2300,1964,usa,swimming,M,No
+2301,1964,usa,swimming,F,Unknown
+2302,1963,usa,swimming,M,No
+2303,1963,usa,swimming,M,Unknown
+2304,1963,usa,swimming,M,Yes
+2305,1961,usa,swimming,M,Unknown
+2306,1961,usa,swimming,M,No
+2307,1960,usa,swimming,M,No
+2308,1960,usa,swimming,M,Yes
+2309,1960,usa,swimming,M,No
+2310,1960,usa,swimming,F,No
+2311,1959,usa,swimming,M,No
+2312,1959,usa,swimming,Unknown,Unknown
+2313,1959,usa,swimming,M,No
+2314,1958,usa,swimming,M,No
+2315,1958,usa,swimming,M,No
+2316,1958,usa,swimming,M,No
+2317,1958,usa,swimming,M,No
+2318,1957,usa,swimming,M,Yes
+2319,1957,usa,swimming,M,Yes
+2320,1957,usa,swimming,Unknown,No
+2321,1956,usa,swimming,M,No
+2322,1956,usa,swimming,M,No
+2323,1956,usa,swimming,F,NA
+2324,1955,usa,swimming,M,No
+2325,1955,usa,swimming,M,Unknown
+2326,1954,usa,swimming,M,No
+2327,1953,usa,swimming,F,No
+2328,1952,usa,swimming,M,Yes
+2329,1952,usa,swimming,M,Yes
+2330,1952,usa,swimming,M,No
+2331,1952,usa,swimming,M,Yes
+2332,1950,usa,swimming,M,No
+2333,1950,usa,swimming,M,No
+2334,1948,usa,swimming,M,No
+2335,1948,usa,swimming,M,Yes
+2336,1947,usa,swimming,M,Yes
+2337,1945,usa,swimming,M,Yes
+2338,1944,usa,swimming,M,No
+2339,1944,usa,swimming,F,No
+2340,1943,usa,swimming,M,Unknown
+2341,1941,usa,swimming,M,No
+2342,1938,usa,swimming,M,No
+2343,1937,usa,swimming,M,Yes
+2344,1936,usa,swimming,M,No
+2345,1936,usa,swimming,M,Yes
+2346,1936,usa,swimming,M,Yes
+2347,1935,usa,swimming,M,Yes
+2348,1934,usa,swimming,M,No
+2349,1933,usa,swimming,M,No
+2350,1933,usa,swimming,F,No
+2351,1933,usa,swimming,M,Yes
+2352,1932,usa,swimming,M,No
+2353,1931,usa,swimming,M,No
+2354,1931,usa,swimming,F,No
+2355,1931,usa,swimming,M,No
+2356,1931,usa,swimming,M,No
+2357,1931,usa,swimming,M,No
+2358,1930,usa,swimming,M,No
+2359,1930,usa,swimming,M,No
+2360,1930,usa,swimming,M,No
+2361,1929,usa,swimming,M,No
+2362,1929,usa,swimming,M,No
+2363,1928,usa,swimming,M,No
+2364,1928,usa,swimming,Unknown,Unknown
+2365,1928,usa,swimming,M,Unknown
+2366,1927,usa,swimming,M,No
+2367,1926,usa,swimming,M,Yes
+2368,1926,usa,swimming,M,No
+2369,1926,usa,swimming,M,Yes
+2370,1926,usa,swimming,F,No
+2371,1925,usa,swimming,F,No
+2372,1925,usa,swimming,M,No
+2373,1924,usa,swimming,M,Yes
+2374,1923,usa,swimming,M,No
+2375,1922,usa,swimming,F,Yes
+2376,1920,usa,swimming,M,Unknown
+2377,1920,usa,swimming,M,No
+2378,1919,usa,swimming,M,No
+2379,1919,usa,swimming,M,No
+2380,1919,usa,swimming,F,No
+2381,1917,usa,swimming,M,No
+2382,1917,usa,swimming,M,No
+2383,1916,usa,swimming,F,Unknown
+2384,1916,usa,swimming,M,No
+2385,1916,usa,swimming,M,No
+2386,1916,usa,swimming,M,Yes
+2387,1916,usa,swimming,M,Yes
+2388,1916,usa,swimming,M,Yes
+2389,1916,usa,swimming,M,Yes
+2390,1916,usa,swimming,M,No
+2391,1914,usa,swimming,M,Yes
+2392,1914,usa,swimming,M,Unknown
+2393,1912,usa,swimming,M,Yes
+2394,1912,usa,swimming,M,No
+2395,1911,usa,swimming,M,Yes
+2396,1911,usa,swimming,M,No
+2397,1911,usa,swimming,M,No
+2398,1909,usa,swimming,M,No
+2399,1906,usa,swimming,M,Yes
+2400,1906,usa,swimming,M,Yes
+2401,1906,usa,swimming,M,Yes
+2402,1905,usa,swimming,M,No
+2403,1905,usa,swimming,M,No
+2404,1904,usa,swimming,M,Yes
+2405,1904,usa,swimming,M,Yes
+2406,1902,usa,swimming,M,No
+2407,1901,usa,swimming,M,No
+2408,1900,usa,swimming,M,No
+2409,1899,usa,swimming,M,Yes
+2410,1898,usa,swimming,M,No
+2411,1896,usa,swimming,M,No
+2412,1896,usa,swimming,M,Yes
+2413,1895,usa,swimming,M,Yes
+2414,1894,usa,swimming,M,Yes
+2415,1894,usa,swimming,M,No
+2416,1894,usa,swimming,F,NA
+2417,1894,usa,swimming,M,No
+2418,1894,usa,swimming,M,NA
+2419,1894,usa,swimming,M,No
+2420,1889,usa,swimming,M,Yes
+2421,1881,usa,swimming,M,Unknown
+2422,1881,usa,swimming,M,Yes
+2423,1881,usa,swimming,M,No
+2424,1879,usa,swimming,M,No
+2425,1878,usa,swimming,M,Yes
+2426,1878,usa,swimming,M,Yes
+2427,1876,usa,swimming,M,No
+2428,1874,usa,swimming,M,No
+2429,1870,usa,swimming,M,No
+2430,1866,usa,swimming,M,Yes
+2431,1865,usa,swimming,M,No
+2432,1865,usa,swimming,M,Yes
+2433,1864,usa,swimming,M,No
+2434,1863,usa,swimming,M,No
+2435,1860,usa,swimming,M,No
+2436,1858,usa,swimming,M,Unknown
+2437,1858,usa,swimming,M,Unknown
+2438,1858,usa,swimming,M,Yes
+2439,1857,usa,swimming,M,Yes
+2440,1853,usa,swimming,M,Yes
+2441,1852,usa,swimming,M,Yes
+2442,1851,usa,swimming,M,Yes
+2443,1850,usa,swimming,M,Yes
+2444,1849,usa,swimming,F,Yes
+2445,1848,usa,swimming,M,No
+2446,1847,usa,swimming,M,Unknown
+2447,1842,usa,swimming,M,No
+2448,1837,usa,swimming,M,No
+2449,1837,usa,swimming,M,No
+2450,1817,usa,swimming,M,Yes
+2451,1816,usa,swimming,M,Yes
+2452,1780,usa,swimming,M,Yes
+2453,1751,usa,swimming,M,Yes
+2454,1642,usa,swimming,M,Yes
+2455,NA,usa,swimming,M,No
+2456,NA,usa,swimming,M,No
+2457,NA,usa,swimming,M,Yes
+2458,2018,australia,swimming,M,No
+2459,2018,australia,swimming,F,No
+2460,2018,australia,swimming,F,No
+2461,2017,australia,swimming,M,No
+2462,2017,australia,swimming,M,No
+2463,2016,australia,swimming,M,No
+2464,2015,australia,swimming,M,No
+2465,2014,australia,swimming,M,Yes
+2466,2014,australia,swimming,F,Yes
+2467,2014,australia,swimming,M,No
+2468,2011,australia,swimming,M,No
+2469,2011,australia,swimming,M,Yes
+2470,2011,australia,swimming,M,Unknown
+2471,2011,australia,swimming,F,Unknown
+2472,2010,australia,swimming,M,Unknown
+2473,2009,australia,swimming,M,No
+2474,2009,australia,swimming,M,No
+2475,2008,australia,swimming,M,No
+2476,2008,australia,swimming,M,No
+2477,2007,australia,swimming,M,No
+2478,2007,australia,swimming,M,Unknown
+2479,2007,australia,swimming,M,Unknown
+2480,2007,australia,swimming,F,No
+2481,2007,australia,swimming,F,No
+2482,2007,australia,swimming,M,Unknown
+2483,2006,australia,swimming,M,No
+2484,2006,australia,swimming,F,Yes
+2485,2005,australia,swimming,M,No
+2486,2004,australia,swimming,M,No
+2487,2003,australia,swimming,M,No
+2488,2003,australia,swimming,M,No
+2489,2003,australia,swimming,M,No
+2490,2003,australia,swimming,M,Yes
+2491,2002,australia,swimming,M,Unknown
+2492,2002,australia,swimming,M,Yes
+2493,2002,australia,swimming,M,No
+2494,2002,australia,swimming,M,No
+2495,2000,australia,swimming,M,No
+2496,2000,australia,swimming,M,Yes
+2497,2000,australia,swimming,M,No
+2498,2000,australia,swimming,M,No
+2499,1997,australia,swimming,F,No
+2500,1996,australia,swimming,M,No
+2501,1996,australia,swimming,F,No
+2502,1996,australia,swimming,F,No
+2503,1996,australia,swimming,M,No
+2504,1996,australia,swimming,F,No
+2505,1994,australia,swimming,M,No
+2506,1991,australia,swimming,M,No
+2507,1990,australia,swimming,M,No
+2508,1990,australia,swimming,M,No
+2509,1989,australia,swimming,M,Unknown
+2510,1989,australia,swimming,M,No
+2511,1989,australia,swimming,F,No
+2512,1987,australia,swimming,M,No
+2513,1983,australia,swimming,F,Yes
+2514,1983,australia,swimming,M,Yes
+2515,1980,australia,swimming,M,No
+2516,1975,australia,swimming,M,Yes
+2517,1971,australia,swimming,M,No
+2518,1969,australia,swimming,M,No
+2519,1968,australia,swimming,F,No
+2520,1967,australia,swimming,M,Yes
+2521,1965,australia,swimming,M,No
+2522,1964,australia,swimming,M,Yes
+2523,1964,australia,swimming,M,Unknown
+2524,1963,australia,swimming,M,Unknown
+2525,1962,australia,swimming,M,No
+2526,1962,australia,swimming,M,Unknown
+2527,1961,australia,swimming,M,No
+2528,1961,australia,swimming,M,No
+2529,1960,australia,swimming,M,No
+2530,1959,australia,swimming,M,Unknown
+2531,1959,australia,swimming,M,No
+2532,1958,australia,swimming,M,Yes
+2533,1958,australia,swimming,F,Unknown
+2534,1957,australia,swimming,M,No
+2535,1956,australia,swimming,M,No
+2536,1956,australia,swimming,M,Yes
+2537,1956,australia,swimming,M,No
+2538,1955,australia,swimming,M,Yes
+2539,1954,australia,swimming,M,Yes
+2540,1954,australia,swimming,M,Yes
+2541,1954,australia,swimming,M,No
+2542,1953,australia,swimming,M,No
+2543,1951,australia,swimming,M,Yes
+2544,1951,australia,swimming,M,No
+2545,1950,australia,swimming,Unknown,No
+2546,1950,australia,swimming,M,No
+2547,1949,australia,swimming,M,No
+2548,1949,australia,swimming,M,Yes
+2549,1949,australia,swimming,M,No
+2550,1949,australia,swimming,F,No
+2551,1949,australia,swimming,M,Yes
+2552,1948,australia,swimming,M,Yes
+2553,1948,australia,swimming,M,Yes
+2554,1947,australia,swimming,M,Yes
+2555,1947,australia,swimming,M,No
+2556,1946,australia,swimming,M,No
+2557,1946,australia,swimming,M,No
+2558,1946,australia,swimming,M,Yes
+2559,1946,australia,swimming,M,Yes
+2560,1946,australia,swimming,F,Yes
+2561,1945,australia,swimming,M,Yes
+2562,1944,australia,swimming,M,Unknown
+2563,1942,australia,swimming,F,Yes
+2564,1941,australia,swimming,M,No
+2565,1941,australia,swimming,M,Unknown
+2566,1940,australia,swimming,M,Yes
+2567,1940,australia,swimming,M,No
+2568,1939,australia,swimming,M,Unknown
+2569,1939,australia,swimming,M,Yes
+2570,1939,australia,swimming,M,No
+2571,1938,australia,swimming,M,Yes
+2572,1937,australia,swimming,M,Yes
+2573,1937,australia,swimming,M,Yes
+2574,1937,australia,swimming,M,No
+2575,1937,australia,swimming,M,Yes
+2576,1937,australia,swimming,M,Unknown
+2577,1937,australia,swimming,M,Unknown
+2578,1937,australia,swimming,M,Yes
+2579,1937,australia,swimming,M,No
+2580,1936,australia,swimming,M,Yes
+2581,1936,australia,swimming,M,Yes
+2582,1936,australia,swimming,M,Yes
+2583,1936,australia,swimming,M,Yes
+2584,1935,australia,swimming,M,Yes
+2585,1934,australia,swimming,M,Yes
+2586,1934,australia,swimming,M,No
+2587,1934,australia,swimming,F,Yes
+2588,1934,australia,swimming,M,Yes
+2589,1934,australia,swimming,M,Yes
+2590,1934,australia,swimming,M,No
+2591,1934,australia,swimming,M,No
+2592,1933,australia,swimming,M,Yes
+2593,1932,australia,swimming,M,No
+2594,1932,australia,swimming,M,No
+2595,1931,australia,swimming,M,Unknown
+2596,1931,australia,swimming,M,No
+2597,1930,australia,swimming,M,No
+2598,1929,australia,swimming,F,No
+2599,1929,australia,swimming,M,Yes
+2600,1929,australia,swimming,M,Yes
+2601,1929,australia,swimming,M,Yes
+2602,1929,australia,swimming,M,Yes
+2603,1929,australia,swimming,M,Unknown
+2604,1928,australia,swimming,M,No
+2605,1927,australia,swimming,M,Yes
+2606,1927,australia,swimming,M,Yes
+2607,1926,australia,swimming,M,No
+2608,1926,australia,swimming,F,Yes
+2609,1925,australia,swimming,M,No
+2610,1925,australia,swimming,M,Yes
+2611,1924,australia,swimming,M,No
+2612,1924,australia,swimming,M,Unknown
+2613,1924,australia,swimming,F,No
+2614,1924,australia,swimming,M,Unknown
+2615,1924,australia,swimming,M,Yes
+2616,1923,australia,swimming,M,No
+2617,1923,australia,swimming,M,Yes
+2618,1923,australia,swimming,M,Yes
+2619,1922,australia,swimming,M,Yes
+2620,1922,australia,swimming,M,Yes
+2621,1922,australia,swimming,M,Yes
+2622,1922,australia,swimming,M,Unknown
+2623,1922,australia,swimming,M,Yes
+2624,1922,australia,swimming,M,Yes
+2625,1921,australia,swimming,M,No
+2626,1920,australia,swimming,M,No
+2627,1920,australia,swimming,M,Yes
+2628,1919,australia,swimming,M,No
+2629,1919,australia,swimming,M,Yes
+2630,1919,australia,swimming,M,No
+2631,1918,australia,swimming,M,Yes
+2632,1917,australia,swimming,M,No
+2633,1916,australia,swimming,M,No
+2634,1916,australia,swimming,F,No
+2635,1916,australia,swimming,M,Yes
+2636,1916,australia,swimming,M,Yes
+2637,1916,australia,swimming,M,Yes
+2638,1916,australia,swimming,M,No
+2639,1915,australia,swimming,M,No
+2640,1915,australia,swimming,M,No
+2641,1915,australia,swimming,M,No
+2642,1915,australia,swimming,M,Yes
+2643,1914,australia,swimming,M,No
+2644,1914,australia,swimming,M,Yes
+2645,1913,australia,swimming,M,No
+2646,1912,australia,swimming,M,No
+2647,1912,australia,swimming,M,Yes
+2648,1912,australia,swimming,M,Yes
+2649,1911,australia,swimming,M,Yes
+2650,1910,australia,swimming,M,No
+2651,1907,australia,swimming,M,Yes
+2652,1907,australia,swimming,M,Yes
+2653,1907,australia,swimming,M,No
+2654,1907,australia,swimming,M,Yes
+2655,1906,australia,swimming,M,Yes
+2656,1906,australia,swimming,M,Yes
+2657,1905,australia,swimming,M,Unknown
+2658,1905,australia,swimming,M,Yes
+2659,1905,australia,swimming,M,No
+2660,1905,australia,swimming,Unknown,Unknown
+2661,1905,australia,swimming,M,Unknown
+2662,1905,australia,swimming,M,Unknown
+2663,1904,australia,swimming,M,Yes
+2664,1903,australia,swimming,M,Yes
+2665,1903,australia,swimming,M,Yes
+2666,1902,australia,swimming,M,Yes
+2667,1902,australia,swimming,M,No
+2668,1901,australia,swimming,M,No
+2669,1901,australia,swimming,M,Yes
+2670,1900,australia,swimming,M,Yes
+2671,1900,australia,swimming,M,No
+2672,1899,australia,swimming,F,Unknown
+2673,1898,australia,swimming,M,Unknown
+2674,1896,australia,swimming,M,Yes
+2675,1896,australia,swimming,M,Yes
+2676,1895,australia,swimming,M,Yes
+2677,1895,australia,swimming,M,No
+2678,1895,australia,swimming,M,Yes
+2679,1894,australia,swimming,M,No
+2680,1893,australia,swimming,M,No
+2681,1893,australia,swimming,M,Unknown
+2682,1892,australia,swimming,F,No
+2683,1891,australia,swimming,M,No
+2684,1890,australia,swimming,Unknown,Unknown
+2685,1888,australia,swimming,M,Yes
+2686,1886,australia,swimming,M,Yes
+2687,1885,australia,swimming,M,No
+2688,1883,australia,swimming,M,Yes
+2689,1883,australia,swimming,M,Yes
+2690,1883,australia,swimming,M,Yes
+2691,1882,australia,swimming,M,Yes
+2692,1881,australia,swimming,M,Unknown
+2693,1880,australia,swimming,M,Yes
+2694,1880,australia,swimming,F,No
+2695,1879,australia,swimming,M,No
+2696,1878,australia,swimming,M,No
+2697,1878,australia,swimming,M,Yes
+2698,1877,australia,swimming,M,No
+2699,1877,australia,swimming,M,No
+2700,1877,australia,swimming,M,Yes
+2701,1877,australia,swimming,F,No
+2702,1876,australia,swimming,M,Yes
+2703,1876,australia,swimming,M,Yes
+2704,1875,australia,swimming,M,Unknown
+2705,1874,australia,swimming,M,No
+2706,1874,australia,swimming,M,No
+2707,1873,australia,swimming,M,Unknown
+2708,1873,australia,swimming,M,No
+2709,1870,australia,swimming,M,No
+2710,1868,australia,swimming,M,Yes
+2711,1864,australia,swimming,M,Unknown
+2712,1863,australia,swimming,M,Yes
+2713,1861,australia,swimming,M,No
+2714,1860,australia,swimming,M,No
+2715,1858,australia,swimming,M,Yes
+2716,1856,australia,swimming,M,NA
+2717,1855,australia,swimming,M,Yes
+2718,1855,australia,swimming,M,Unknown
+2719,1853,australia,swimming,M,No
+2720,1852,australia,swimming,M,Unknown
+2721,1849,australia,swimming,M,Yes
+2722,1849,australia,swimming,M,Yes
+2723,1847,australia,swimming,M,No
+2724,1841,australia,swimming,M,Yes
+2725,1840,australia,swimming,M,Yes
+2726,1832,australia,swimming,M,No
+2727,1825,australia,swimming,M,Yes
+2728,NA,australia,swimming,M,Yes
+2729,2017,south africa,swimming,M,Yes
+2730,2015,south africa,swimming,F,No
+2731,2014,south africa,swimming,Unknown,Unknown
+2732,2014,south africa,swimming,M,Yes
+2733,2013,south africa,swimming,M,Yes
+2734,2013,south africa,swimming,M,No
+2735,2012,south africa,swimming,M,Yes
+2736,2012,south africa,swimming,M,Yes
+2737,2011,south africa,swimming,M,No
+2738,2010,south africa,swimming,M,Yes
+2739,2009,south africa,swimming,M,Unknown
+2740,2009,south africa,swimming,M,Yes
+2741,2007,south africa,swimming,M,Yes
+2742,2006,south africa,swimming,M,Unknown
+2743,2004,south africa,swimming,F,Yes
+2744,2004,south africa,swimming,M,Yes
+2745,1995,south africa,swimming,M,No
+2746,1995,south africa,swimming,M,Yes
+2747,1994,south africa,swimming,M,No
+2748,1992,south africa,swimming,M,No
+2749,1986,south africa,swimming,M,No
+2750,1985,south africa,swimming,M,Unknown
+2751,1985,south africa,swimming,M,No
+2752,1984,south africa,swimming,M,No
+2753,1983,south africa,swimming,M,No
+2754,1983,south africa,swimming,M,No
+2755,1983,south africa,swimming,F,Unknown
+2756,1982,south africa,swimming,F,No
+2757,1982,south africa,swimming,M,No
+2758,1981,south africa,swimming,M,No
+2759,1981,south africa,swimming,M,Unknown
+2760,1980,south africa,swimming,M,Unknown
+2761,1980,south africa,swimming,M,No
+2762,1980,south africa,swimming,M,No
+2763,1979,south africa,swimming,M,No
+2764,1977,south africa,swimming,M,No
+2765,1976,south africa,swimming,M,Unknown
+2766,1975,south africa,swimming,M,Unknown
+2767,1974,south africa,swimming,M,No
+2768,1974,south africa,swimming,M,No
+2769,1974,south africa,swimming,M,No
+2770,1972,south africa,swimming,M,No
+2771,1972,south africa,swimming,M,Yes
+2772,1971,south africa,swimming,F,No
+2773,1971,south africa,swimming,M,No
+2774,1971,south africa,swimming,M,Yes
+2775,1965,south africa,swimming,Unknown,Unknown
+2776,1964,south africa,swimming,M,No
+2777,1964,south africa,swimming,M,Unknown
+2778,1963,south africa,swimming,M,No
+2779,1963,south africa,swimming,M,Yes
+2780,1963,south africa,swimming,M,No
+2781,1962,south africa,swimming,M,Yes
+2782,1961,south africa,swimming,M,Yes
+2783,1961,south africa,swimming,M,No
+2784,1960,south africa,swimming,M,Yes
+2785,1959,south africa,swimming,M,No
+2786,1958,south africa,swimming,M,Yes
+2787,1958,south africa,swimming,M,Yes
+2788,1958,south africa,swimming,M,Yes
+2789,1954,south africa,swimming,M,No
+2790,1953,south africa,swimming,F,No
+2791,1953,south africa,swimming,M,No
+2792,1951,south africa,swimming,M,No
+2793,1951,south africa,swimming,M,Yes
+2794,1947,south africa,swimming,M,No
+2795,1946,south africa,swimming,M,No
+2796,1946,south africa,swimming,M,No
+2797,1944,south africa,swimming,M,Yes
+2798,1944,south africa,swimming,M,Yes
+2799,1944,south africa,swimming,M,Yes
+2800,1943,south africa,swimming,M,No
+2801,1943,south africa,swimming,M,Yes
+2802,1942,south africa,swimming,M,No
+2803,1942,south africa,swimming,M,Yes
+2804,1940,south africa,swimming,M,Yes
+2805,1940,south africa,swimming,M,Yes
+2806,1940,south africa,swimming,M,Yes
+2807,1940,south africa,swimming,Unknown,Unknown
+2808,1938,south africa,swimming,M,No
+2809,1934,south africa,swimming,M,Yes
+2810,1934,south africa,swimming,M,No
+2811,1930,south africa,swimming,M,No
+2812,1930,south africa,swimming,M,Yes
+2813,1927,south africa,swimming,M,Yes
+2814,1926,south africa,swimming,M,No
+2815,1926,south africa,swimming,M,NA
+2816,1924,south africa,swimming,M,Yes
+2817,1924,south africa,swimming,M,No
+2818,1922,south africa,swimming,M,No
+2819,1911,south africa,swimming,M,Yes
+2820,1911,south africa,swimming,M,Yes
+2821,1908,south africa,swimming,M,Yes
+2822,1905,south africa,swimming,M,Yes
+2823,1902,south africa,swimming,M,Unknown
+2824,1901,south africa,swimming,M,Yes
+2825,1900,south africa,swimming,M,Yes
+2826,1900,south africa,swimming,M,Unknown
+2827,1900,south africa,swimming,M,No
+2828,1894,south africa,swimming,M,Yes
+2829,1890,south africa,swimming,M,Yes
+2830,1887,south africa,swimming,M,Yes
+2831,1886,south africa,swimming,M,Yes
+2832,1884,south africa,swimming,M,Yes
+2833,1863,south africa,swimming,M,Unknown
+2834,1862,south africa,swimming,M,No
+2835,1852,south africa,swimming,M,Yes
+2836,NA,south africa,swimming,M,Yes
+2837,NA,south africa,swimming,M,Yes
+2838,NA,south africa,swimming,M,Yes
+2839,NA,south africa,swimming,M,Yes
+2840,1968,papua new guinea,swimming,M,Yes
+2841,1968,papua new guinea,swimming,Unknown,Yes
+2842,1966,papua new guinea,swimming,F,Yes
+2843,1966,papua new guinea,swimming,F,Yes
+2844,1966,papua new guinea,swimming,F,Yes
+2845,1966,papua new guinea,swimming,F,Yes
+2846,1964,papua new guinea,swimming,M,No
+2847,1963,papua new guinea,swimming,M,No
+2848,1962,papua new guinea,swimming,M,Yes
+2849,1962,papua new guinea,swimming,M,No
+2850,1959,papua new guinea,swimming,Unknown,Yes
+2851,1958,papua new guinea,swimming,M,Yes
+2852,1955,papua new guinea,swimming,M,No
+2853,1955,papua new guinea,swimming,M,No
+2854,1954,papua new guinea,swimming,M,Yes
+2855,1954,papua new guinea,swimming,M,No
+2856,1949,papua new guinea,swimming,M,No
+2857,1939,papua new guinea,swimming,M,Yes
+2858,1935,papua new guinea,swimming,M,Yes
+2859,1925,papua new guinea,swimming,M,Yes
+2860,NA,papua new guinea,swimming,M,Yes
+2861,NA,papua new guinea,swimming,M,No
+2862,2013,new zealand,swimming,M,Yes
+2863,2010,new zealand,swimming,M,No
+2864,2009,new zealand,swimming,M,Yes
+2865,2009,new zealand,swimming,M,No
+2866,2003,new zealand,swimming,M,Yes
+2867,1999,new zealand,swimming,F,No
+2868,1999,new zealand,swimming,F,No
+2869,1972,new zealand,swimming,M,No
+2870,1964,new zealand,swimming,M,Yes
+2871,1962,new zealand,swimming,M,No
+2872,1929,new zealand,swimming,F,No
+2873,1919,new zealand,swimming,F,No
+2874,1912,new zealand,swimming,M,No
+2875,1910,new zealand,swimming,M,No
+2876,1906,new zealand,swimming,M,Unknown
+2877,1904,new zealand,swimming,M,Yes
+2878,1896,new zealand,swimming,M,Yes
+2879,1895,new zealand,swimming,M,No
+2880,1893,new zealand,swimming,M,Yes
+2881,1892,new zealand,swimming,M,No
+2882,1891,new zealand,swimming,M,No
+2883,1890,new zealand,swimming,M,Yes
+2884,1887,new zealand,swimming,M,Yes
+2885,1886,new zealand,swimming,M,Unknown
+2886,1885,new zealand,swimming,M,No
+2887,1882,new zealand,swimming,M,No
+2888,1882,new zealand,swimming,M,No
+2889,1875,new zealand,swimming,M,Yes
+2890,1868,new zealand,swimming,M,No
+2891,1864,new zealand,swimming,M,No
+2892,1862,new zealand,swimming,M,No
+2893,1861,new zealand,swimming,M,No
+2894,1860,new zealand,swimming,M,No
+2895,1860,new zealand,swimming,M,Yes
+2896,1852,new zealand,swimming,M,Yes
