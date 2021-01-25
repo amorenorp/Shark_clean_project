@@ -1,5 +1,5 @@
 # Shark Storytelling Project
-![img2](https://github.com/amorenorp/Shark_clean_project/blob/main/images/img2.jpg)
+![img2](https://github.com/amorenorp/Shark_clean_project/blob/main/images/shark-2017046_1280.jpg)
 
 
 En este proyecto he utlizado el documento [Shark Attack] (https://www.kaggle.com/teajay/global-shark-attacks) descargado de Kaggle .
