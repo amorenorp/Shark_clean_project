@@ -1,5 +1,5 @@
 # Shark Storytelling Project
-![portada](https://www.google.com/url?sa=i&url=https%3A%2F%2Fatlantiksurf.com%2Fen%2Fdo-shark-repellents-actually-work%2F&psig=AOvVaw1aBhA0f63Ri2jPxK1dO5Fg&ust=1611670797685000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCAm96jt-4CFQAAAAAdAAAAABAD)
+![sharkimg](https://github.com/amorenorp/Shark_clean_project/blob/main/images/sharkimg.jpg)
 
 
 En este proyecto he utlizado el documento [Shark Attack] (https://www.kaggle.com/teajay/global-shark-attacks) descargado de Kaggle .
@@ -17,14 +17,6 @@ El proposito de este ejericio es obtener una respuesta a las siguientes pregunta
 - ¿qué paises serian los más peligrosos para realizar este nuevo deporte? 
 - ¿por cual de los deportes se sienten más atraido los tiburones? 
 - ¿son esos ataques letales?
-
-
-![portada](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F71dDDgElu-L._AC_SX425_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.es%2FBurkewrusk-Cerveza-Manualidades-Piscina-decoraci%25C3%25B3n%2Fdp%2FB07JCND1FT&tbnid=ZH_DwgeSmVA4fM&vet=12ahUKEwj8yqbJrrfuAhUPShoKHTLaDTYQMygJegUIARDGAQ..i&docid=r9nmqF-7J-MwKM&w=425&h=258&q=shark%20surf%20sing&client=safari&ved=2ahUKEwj8yqbJrrfuAhUPShoKHTLaDTYQMygJegUIARDGAQ)
-
-
-
-
-
 
 
  # Data Cleanning
@@ -66,7 +58,7 @@ Tras la limpieza , he creado un nuevo archivo **sharl_storytelling.ipynb** donde
 
 ## *Referencias y bibliotecas:*
 
- - Kaggel
- - seaborn
- - pandas 
+ - Kaggel 
+ - Seaborn
+ - Pandas 
  - Matplotlib
